@@ -6,10 +6,7 @@
 
     <!-- PRICING-3
 ============================================= -->
-    <section
-      id="pricing-3"
-      class="bg_whitesmoke hero-offset-nav pb-50 pricing-section division"
-    >
+    <section id="pricing-3" class="bg_whitesmoke hero-offset-nav pb-50 pricing-section division">
       <div class="container">
         <!-- SECTION TITLE -->
         <div class="row">
@@ -32,7 +29,7 @@
           <!-- FREE PLAN -->
           <div class="col-md-4">
             <div class="pricing-table mb-40 wow fadeInUp" data-wow-delay="0.4s">
-              
+
               <!-- Plan Price  -->
               <div class="pricing-plan bg_white">
                 <span style="font-size:17px">%20 indirim</span>
@@ -43,14 +40,8 @@
 
                 <div class="d-flex justify-content-center my-2">
                   <label>Aylık</label>
-                  <el-switch
-                    class="mx-2"
-                    style="display: block"
-                    v-model="kobi_para"
-                    active-color="#434242"
-                    inactive-color="#434242"
-                    size="large"
-                  >
+                  <el-switch class="mx-2" style="display: block" v-model="kobi_para" active-color="#434242"
+                    inactive-color="#434242" size="large">
                   </el-switch>
                   <label class="">Yılık</label>
                 </div>
@@ -58,9 +49,8 @@
                 <p class="p-sm">Kobi paketimiz için bunu seçebilirsiniz</p>
 
                 <!-- Pricing Table Button  -->
-                <a href="https://muhasebe.ishesap.com/register" class="btn btn-tra-grey skyblue-hover mb-15"
-                  >Şimdi Dene</a
-                >
+                <a href="https://muhasebe.ishesap.com/register" class="btn btn-tra-grey skyblue-hover mb-15">Şimdi
+                  Dene</a>
 
                 <!-- Pricing Trial Link -->
                 <a href="/kobi" style="text-decoration: none;" class="pricing-trial-link">Detaylar</a>
@@ -69,13 +59,27 @@
               <!-- Plan Description -->
               <div class="pricing-description bg_white">
                 <ul class="features">
-                  <li><p class="p-lg">500 Adet E-Fatura Ücretsiz</p></li>
-                  <li><p class="p-lg">Mobil Uygulama Ücretsiz</p></li>
-                  <li><p class="p-lg">Finans Yönetimi</p></li>
-                  <li><p class="p-lg">Cari Hesap Yönetimi</p></li>
-                  <li><p class="p-lg">Sipariş Yönetimi</p></li>
-                  <li><p class="p-lg">E-Dönüşüm</p></li>
-                  <li><p class="p-lg">Tek Kullanıcı</p></li>
+                  <li>
+                    <p class="p-lg">500 Adet E-Fatura Ücretsiz</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Mobil Uygulama Ücretsiz</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Finans Yönetimi</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Cari Hesap Yönetimi</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Sipariş Yönetimi</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">E-Dönüşüm</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Tek Kullanıcı</p>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -90,19 +94,13 @@
                 <h5 class="h5-md">Ön Muhasebe</h5>
                 <sup class="">₺</sup>
                 <span class="" v-if="on_para">1,149,90 <sub style="font-size:16px">/ YILLIK</sub></span>
-                <span class="" v-else>119,90 <sub  style="font-size:15px">/ AYLIK</sub></span>
-                
+                <span class="" v-else>119,90 <sub style="font-size:15px">/ AYLIK</sub></span>
+
 
                 <div class="d-flex justify-content-center my-2">
                   <label>Aylık</label>
-                  <el-switch
-                    class="mx-2"
-                    style="display: block"
-                    v-model="on_para"
-                    active-color="#434242"
-                    inactive-color="#434242"
-                    size="large"
-                  >
+                  <el-switch class="mx-2" style="display: block" v-model="on_para" active-color="#434242"
+                    inactive-color="#434242" size="large">
                   </el-switch>
                   <label class="">Yılık</label>
                 </div>
@@ -112,9 +110,8 @@
                 </p>
 
                 <!-- Pricing Table Button  -->
-                <a href="https://muhasebe.ishesap.com/register" class="btn btn-tra-white skyblue-hover mb-15"
-                  >Şimdi Dene</a
-                >
+                <a href="https://muhasebe.ishesap.com/register" class="btn btn-tra-white skyblue-hover mb-15">Şimdi
+                  Dene</a>
 
                 <!-- Pricing Trial Link -->
                 <a href="/onmuhasebe" style="text-decoration: none;" class="pricing-trial-link">Detaylar</a>
@@ -123,13 +120,27 @@
               <!-- Plan Description -->
               <div class="pricing-description bg_white">
                 <ul class="features">
-                  <li><p class="p-lg">500 Adet E-Fatura Ücretsiz</p></li>
-                  <li><p class="p-lg">Mobil Uygulama Ücretsiz</p></li>
-                  <li><p class="p-lg">Finans Yönetimi</p></li>
-                  <li><p class="p-lg">Cari Hesap Yönetimi</p></li>
-                  <li><p class="p-lg">Ön Muhasebe Yönetimi</p></li>
-                  <li><p class="p-lg">E-Dönüşüm</p></li>
-                  <li><p class="p-lg">Üç Kullanıcı</p></li>
+                  <li>
+                    <p class="p-lg">500 Adet E-Fatura Ücretsiz</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Mobil Uygulama Ücretsiz</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Finans Yönetimi</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Cari Hesap Yönetimi</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Ön Muhasebe Yönetimi</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">E-Dönüşüm</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Üç Kullanıcı</p>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -145,14 +156,8 @@
 
                 <div class="d-flex justify-content-center my-2">
                   <label>Aylık</label>
-                  <el-switch
-                    class="mx-2"
-                    style="display: block"
-                    v-model="mhsb_para"
-                    active-color="#434242"
-                    inactive-color="#434242"
-                    size="large"
-                  >
+                  <el-switch class="mx-2" style="display: block" v-model="mhsb_para" active-color="#434242"
+                    inactive-color="#434242" size="large">
                   </el-switch>
                   <label class="">Yılık</label>
                 </div>
@@ -162,9 +167,7 @@
                 </p>
 
                 <!-- Pricing Table Button  -->
-                <a href="javascript:void(0)" class="btn btn-tra-grey  mb-15"
-                  >Çok Yakında</a
-                >
+                <a href="javascript:void(0)" class="btn btn-tra-grey  mb-15">Çok Yakında</a>
 
                 <!-- Pricing Trial Link -->
                 <a href="javascript:void(0)" style="text-decoration: none;" class="pricing-trial-link">Detaylar</a>
@@ -173,13 +176,27 @@
               <!-- Plan Description -->
               <div class="pricing-description bg_white">
                 <ul class="features">
-                  <li><p class="p-lg">500 Adet E-Fatura Ücretsiz</p></li>
-                  <li><p class="p-lg">Mobil Uygulama Ücretsiz</p></li>
-                  <li><p class="p-lg">Finans Yönetimi</p></li>
-                  <li><p class="p-lg">Cari Hesap Yönetimi</p></li>
-                  <li><p class="p-lg">Resmi Muhasebe Modülleri</p></li>
-                  <li><p class="p-lg">SGK Modülleri</p></li>
-                  <li><p class="p-lg">Üç Kullanıcı</p></li>
+                  <li>
+                    <p class="p-lg">500 Adet E-Fatura Ücretsiz</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Mobil Uygulama Ücretsiz</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Finans Yönetimi</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Cari Hesap Yönetimi</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Resmi Muhasebe Modülleri</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">SGK Modülleri</p>
+                  </li>
+                  <li>
+                    <p class="p-lg">Üç Kullanıcı</p>
+                  </li>
                 </ul>
               </div>
             </div>
@@ -201,10 +218,7 @@
 
     <!-- STATISTIC-1
 ============================================= -->
-    <div
-      id="statistic-1"
-      class="bg_whitesmoke pb-100 statistic-section division"
-    >
+    <div id="statistic-1" class="bg_whitesmoke pb-100 statistic-section division">
       <div class="container">
         <!-- STATISTIC-1 WRAPPER -->
         <div class="statistic-1-wrapper text-center">
@@ -302,7 +316,7 @@
 <script>
 export default {
   head: {
-    title: "Kobi - Ön Muhasebe - Resmi Muhasebe",
+    title: "MasaHesap - Paketler",
     meta: [
       {
         hid: "description",
@@ -322,8 +336,6 @@ export default {
 };
 </script>
 
-<style>
-.el-switch__label span {
+<style>.el-switch__label span {
   font-size: 13px !important;
-}
-</style>
+}</style>

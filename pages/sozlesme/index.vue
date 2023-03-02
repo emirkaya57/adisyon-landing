@@ -257,7 +257,7 @@
 <script>
 export default {
   head: {
-    title: "İş Hesap",
+    title: "MasaHesap",
     meta: [
       {
         hid: "description",
@@ -269,6 +269,4 @@ export default {
 };
 </script>
 
-<style>
-
-</style>
+<style></style>

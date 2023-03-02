@@ -80,7 +80,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <div class="">
 
-            <p style="font-size:25px">&copy; İşHesap</p>
+            <p style="font-size:25px">&copy; MasaHesap</p>
           </div>
           <div class="d-flex justify-content-center align-items-center">
             <a class="mx-2" href="/sozlesme">Gizlilik Sözleşmesi</a>

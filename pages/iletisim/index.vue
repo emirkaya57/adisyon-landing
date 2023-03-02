@@ -26,8 +26,8 @@
                 <!-- Contact Form Input -->
                 <div id="input-name" class="col-md-12">
                   <p class="p-lg">Ad Soyad*</p>
-                  <input type="text" name="name" class="form-control name" placeholder="Ad Soyad" v-model="name"
-                    required autocomplete="off" />
+                  <input type="text" name="name" class="form-control name" placeholder="Ad Soyad" v-model="name" required
+                    autocomplete="off" />
                 </div>
                 <div id="input-tel" class="col-md-12">
                   <p class="p-lg">Telefon*</p>
@@ -39,8 +39,8 @@
                   <p class="p-lg">Email* </p>
                   <span>Lütfen e-posta adresinizin doğruluğunu dikkatlice kontrol
                     edin</span>
-                  <input v-model="email" type="text" name="email" class="form-control email" placeholder="Email"
-                    required autocomplete="off" />
+                  <input v-model="email" type="text" name="email" class="form-control email" placeholder="Email" required
+                    autocomplete="off" />
                 </div>
 
                 <div id="input-message" class="col-md-12 input-message">
@@ -81,6 +81,7 @@
 	
 <script>
 export default {
+
   data() {
     return {
       data: [],
@@ -131,7 +132,7 @@ export default {
     },
   },
   head: {
-    title: "İletişim - İş Hesap",
+    title: "İletişim - MasaHesap",
     meta: [
       {
         hid: "description",
@@ -146,6 +147,4 @@ export default {
 
 </script>
 
-<style>
-
-</style>
+<style></style>

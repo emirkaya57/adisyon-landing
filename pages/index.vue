@@ -145,7 +145,7 @@
 
                   <p class="p-sm" style="color:#7F8487">
                     MasaHesap ile ürünlerinizin stok takibini yapabilirsiniz. Tükenen veya kritik seviyenin altına inen
-                    stoklar için, MasaHesap sizi anında uyarır.
+                    stoklar için, MasaHesap sizi anında uyarır
                   </p>
                 </div>
               </el-card>
@@ -210,13 +210,13 @@
                 <p class="p-lg">
                   Günümüzde işletmeler hızlı ve sağlıklı karar almak
                   zorundadırlar. Artan rekabet baskısı ve ekonomik dalgalanmalar
-                  nedeniyle işletmesinin bilgilerine hakim olan KOBİ’ler ayakta
-                  kalabilmektedirler. Eğer KOBİ çözümünü kullanıyorsanız
+                  nedeniyle işletmesinin bilgilerine hakim olan İşletmeler ayakta
+                  kalabilmektedirler. Eğer Adsiyon çözümünü kullanıyorsanız
                   internetin olduğu herhangi bir cihazdan ve cep telefonundan
-                  e-fatura düzenleyebilir, siparişlerinizi takip edebilir, kasa
+                  İşletmenizi Takip edebilirsiniz ve siparişlerinizi takip edebilir, kasa
                   ve banka işlemlerini gerçekleştirebilirsiniz. Veri, bilgi
                   günümüzün en önemli ticari değeri olarak kabul edilmektedir.
-                  Verileriniz, bilgileriniz KOBİ yazılımı ile istediğiniz anda,
+                  Verileriniz, bilgileriniz Adisyon yazılımı ile istediğiniz anda,
                   istediğiniz bilgiye erişim sağlamanızı kolaylaştıracak şekilde
                   dizayn edilmiştir.
                 </p>
@@ -500,7 +500,7 @@
 
               <!-- Text -->
               <p class="p-xl">
-                KOBİ yazılımımızı satın aldığınızda yıllık fiyat garantisi de
+                Adisyon yazılımımızı satın aldığınızda yıllık fiyat garantisi de
                 almış olursunuz. Fiyatlarımızı yıllık olarak belirlemekte ve yıl
                 içinde kesinlikle değişmemektedir.
               </p>
@@ -525,7 +525,7 @@
                       <p class="p-md grey-color">
                         Bu özellikle yoğun olarak kullandığınız zamanlarda
                         ekranların ve menülerin gözlerinizi yormaması
-                        sağlanmaktadır. Ayrıca alışık olduğunuz şekilde KOBİ
+                        sağlanmaktadır. Ayrıca alışık olduğunuz şekilde Adisyon
                         yazılımını kullanmanız mümkün olmaktadır.
                       </p>
                     </div>
@@ -556,7 +556,7 @@
 
                       <!-- Text -->
                       <p class="p-md grey-color">
-                        KOBİ yazılımı içerisinde yer alan bütün verileriniz
+                        Adisyon yazılımı içerisinde yer alan bütün verileriniz
                         bulut sistemi içerisinde otomatik olarak
                         yedeklenmektedir. Ayrıca verileriniz virüslere, zararlı
                         yazılımlara ve siber saldırılara karşı korunmaktadır.
@@ -591,8 +591,8 @@
 
                       <!-- Text -->
                       <p class="p-md grey-color">
-                        İnternete erişebilen her cihazdan programa giriş yapıp,
-                        KOBİ yazılımını etkin bir şekilde kullanabilirsiniz.
+                        İnternete erişebilen her cihazdan erişebilir,
+                        Adisyon yazılımını etkin bir şekilde kullanabilirsiniz.
 
                       </p>
                     </div>
