@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "İş Hesap",
+    title: "MasaHesap",
     htmlAttrs: {
       lang: "tr",
     },
@@ -18,7 +18,7 @@ export default {
       },
       { hid: "description", name: "description", content: "" },
       { name: "format-detection", content: "telephone=no" },
-     
+
       {
         name: "robots",
         content:
@@ -54,14 +54,14 @@ export default {
       },
     ],
     link: [
-      { rel: "canonical", href: "https://ishesap.com" },
+      { rel: "canonical", href: "https://masahesap.com" },
       { rel: "shortcut icon", type: "image/x-icon", href: "/images/ico.png" },
       { rel: "apple-touch-icon", sizes: "152x152", href: "/images/ico.png" },
       { rel: "apple-touch-icon", sizes: "120x120", href: "/images/ico.png" },
       { rel: "apple-touch-icon", sizes: "76x76", href: "/images/ico.png" },
       { rel: "apple-touch-icon", href: "/images/ico.png" },
       { rel: "icon", type: "image/x-icon", href: "/images/ico.png" },
-     
+
       {
         rel: "stylesheet",
         href: "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css",

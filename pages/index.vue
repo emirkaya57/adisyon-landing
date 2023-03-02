@@ -14,10 +14,11 @@
           <div class="col-md-6 col-lg-5">
             <div class="hero-12-txt pc-20 text-center wow fadeInRight" data-wow-delay="0.6s">
               <!-- Title  -->
-              <h2 class="h2-title-xl">İş Hesap&reg;</h2>
+              <h2 class="h2-title-xl">MasaHesap&reg;</h2>
 
               <!-- Text -->
-              <h4 class="h4-md">KOBİ’ler İçin Eşsiz Mali Çözümler</h4>
+              <h4 class="h4-md">Hızlı ve Kurulum Gerektirmeyen
+                Adisyon Sistemi</h4>
 
               <!-- OS Prerequisite -->
             </div>
@@ -55,155 +56,117 @@
           <div class="row">
 
             <div id="fb-5-1" class="col-md-4">
-              <a href="/kobi/cari-hesap-yonetimi">
-                <div class="fbox-5 pc-25 mb-40 wow fadeInUp feature-box p-4 text-center" data-wow-delay="0.4s">
 
-                  <div class="fbox-ico ico-70 skyblue-color">
-                    <img style="height:80px !important; width:80px !important" src="/tasarim/home/cari-hesap-yonetimi.png"
-                      alt="iş hesap" />
-                  </div>
+              <el-card class="fbox-5 pc-25 mb-40 wow card-kutu fadeInUp p-4 text-center" data-wow-delay="0.4s">
 
+                <div class="fbox-txt">
 
-                  <div class="fbox-txt">
-
-                    <h6 class="h6-sm"><a style="color:#000000" href="/kobi/cari-hesap-yonetimi">CARİ HESAP YÖNETİMİ</a>
-                    </h6>
+                  <h6 style="color:#000" class="h6-sm">Düşük Maliyet
+                  </h6>
 
 
-                    <p class="p-sm">
-                      Cari Hesaplarınızı kolaylıkla yönetin.
-                    </p>
-                  </div>
+                  <p class="p-sm" style="color:#7F8487">
+                    MasaHesap'ı kullanmak için pahalı bir lisans almanız gerekmez. Yıllık bakım ücreti de ödemezsiniz.
+                    Abonelik sistemi sayesinde, kullandığınız kadar ödersiniz.
+                  </p>
                 </div>
-              </a>
+              </el-card>
+
             </div>
 
 
-            <div id="fb-5-2" class="col-md-4">
-              <a href="/kobi/finans-yonetimi">
-                <div class="fbox-5 pc-25 mb-40 wow fadeInUp feature-box p-4 text-center" data-wow-delay="0.4s">
+            <div id="fb-5-1" class="col-md-4">
 
-                  <div class="fbox-ico ico-70 skyblue-color">
-                    <img style="height:80px !important; width:80px !important" src="/tasarim/home/finans-yonetimi.png"
-                      alt="iş hesap" />
-                  </div>
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu p-4 text-center" data-wow-delay="0.4s">
 
+                <div class="fbox-txt">
 
-                  <div class="fbox-txt">
-                    <!-- Title -->
-                    <h6 class="h6-sm">
-                      <a style="color:#000000" href="/kobi/finans-yonetimi"> FİNANS YÖNETİMİ (KASA - BANKA)</a>
-                    </h6>
+                  <h6 style="color:#000" class="h6-sm">Kolay Kullanım
+                  </h6>
 
 
-                    <p class="p-sm">
-                      Tanımlı kasa ve banka hesaplarınız elinizin altında.
-                    </p>
-                  </div>
+                  <p class="p-sm" style="color:#7F8487">
+                    MasaHesap, eğitim almayı gerektirmeden kullanabileceğiniz şekilde tasarlanmıştır. Bu sayede tüm
+                    operasyonlarınızı hızlı ve kolay bir şekilde yönetebilirsiniz.
+                  </p>
                 </div>
-              </a>
+              </el-card>
+            </div>
+
+            <div id="fb-5-1" class="col-md-4">
+
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu p-4 text-center" data-wow-delay="0.4s">
+
+                <div class="fbox-txt">
+
+                  <h6 style="color:#000" class="h6-sm">İstediğiniz Cihazdan
+                    Kullanın
+                  </h6>
+
+
+                  <p class="p-sm" style="color:#7F8487">
+                    MasaHesap sizi tek bir cihaz kullanmaya zorlamaz. İnternet olan herhangi bir cihazdan işlerinizi
+                    kolayca yönetebilirsiniz. Tabletler, akıllı telefonlar, bilgisayarlar.
+                  </p>
+                </div>
+              </el-card>
+
+            </div>
+
+            <div id="fb-5-1" class="col-md-4">
+
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu p-4 text-center" data-wow-delay="0.4s">
+
+                <div class="fbox-txt">
+
+                  <h6 style="color:#000" class="h6-sm">Gelişmiş Raporlama
+                  </h6>
+
+
+                  <p class="p-sm" style="color:#7F8487">
+                    MasaHesap ile yapmış olduğunuz tüm satış, ödeme ve stoklarınız işletmenize özel detaylı ve anlaşılır
+                    raporlar halinde sunulmuştur.
+                  </p>
+                </div>
+              </el-card>
+
             </div>
 
 
-            <div id="fb-5-3" class="col-md-4">
-              <a href="/kobi/siparis-yonetimi">
-                <div class="fbox-5 pc-25 mb-40 wow fadeInUp feature-box p-4 text-center" :data-wow-delay="this.delay">
+            <div id="fb-5-1" class="col-md-4">
 
-                  <div class="fbox-ico ico-70 skyblue-color">
-                    <img style="height:80px !important; width:80px !important" src="/tasarim/home/siparis-yonetimi.png"
-                      alt="iş hesap" />
-                  </div>
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu p-4 text-center" data-wow-delay="0.4s">
 
+                <div class="fbox-txt">
 
-                  <div class="fbox-txt">
-
-                    <h6 class="h6-sm"><a style="color:#000000" href="/kobi/siparis-yonetimi">SİPARİŞ YÖNETİMİ</a> </h6>
+                  <h6 style="color:#000" class="h6-sm">Stok Takibi
+                  </h6>
 
 
-                    <p class="p-sm">
-                      Cari hesaplarınızın <br> alış - satış işlemleri tek ekranda.
-                    </p>
-                  </div>
+                  <p class="p-sm" style="color:#7F8487">
+                    MasaHesap ile ürünlerinizin stok takibini yapabilirsiniz. Tükenen veya kritik seviyenin altına inen
+                    stoklar için, MasaHesap sizi anında uyarır.
+                  </p>
                 </div>
-              </a>
+              </el-card>
+
             </div>
+            <div id="fb-5-1" class="col-md-4">
+
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu p-4 text-center" data-wow-delay="0.4s">
+
+                <div class="fbox-txt">
+
+                  <h6 style="color:#000" class="h6-sm"> Üst Seviye Güvenlik
+                  </h6>
 
 
-            <div id="fb-5-4" class="col-md-4">
-              <a href="/kobi/mobil-uygulama">
-                <div class="fbox-5 pc-25 mb-40 wow fadeInUp feature-box p-4 text-center" :data-wow-delay="this.delay">
-
-                  <div class="fbox-ico ico-70 skyblue-color">
-                    <img style="height:80px !important; width:80px !important" src="/tasarim/home/mobil-uygulama.png"
-                      alt="iş hesap" />
-                  </div>
-
-
-                  <div class="fbox-txt">
-
-                    <h6 class="h6-sm"><a style="color:#000000" href="/kobi/mobil-uygulama">MOBİL UYGULAMA</a> </h6>
-
-
-                    <p class="p-sm">
-                      Mobil uygulama ile tüm muhasebe işlemlerinizi cepten de yönetin.
-                    </p>
-                  </div>
+                  <p class="p-sm" style="color:#7F8487">
+                    MasaHesap, verilerinizi yüksek güvenliğe sahip sunucularda tutar.
+                    İşletmenizdeki cihazlarınızda sorun olsa bile verileriniz güvende kalır.
+                  </p>
                 </div>
-              </a>
-            </div>
-
-
-
-            <div id="fb-5-5" class="col-md-4">
-              <a href="/kobi/e-donusum">
-                <div class="fbox-5 pc-25 mb-40 wow fadeInUp feature-box p-4 text-center" data-wow-delay="0.8s">
-
-                  <div class="fbox-ico ico-70 skyblue-color">
-                    <img style="height:80px !important; width:80px !important" src="/tasarim/home/e-fatura-e-arsiv.png"
-                      alt="iş hesap" />
-                  </div>
-
-
-                  <div class="fbox-txt">
-
-                    <h6 class="h6-sm">
-                      <a style="color:#000000" href="/kobi/e-donusum">E-FATURA / E-ARŞİV</a>
-
-                    </h6>
-
-
-                    <p class="p-sm">
-                      Tek tıkla faturalandırın, tahsilatlarınızı kontrol altına alın.
-                    </p>
-                  </div>
-                </div>
-              </a>
-            </div>
-            <div id="fb-5-5" class="col-md-4">
-
-              <a href="/paketler">
-                <div class="fbox-5 pc-25 mb-40 wow fadeInUp feature-box p-4 text-center " data-wow-delay="0.8s">
-
-                  <div class="fbox-ico ico-70 skyblue-color">
-                    <img style="height:80px !important; width:80px !important" src="/tasarim/home/uygun-fiyatlandirma.png"
-                      alt="iş hesap" />
-                  </div>
-
-
-                  <div class="fbox-txt">
-
-                    <h6 class="h6-sm">
-                      <a style="color:#000000">UYGUN FİYAT</a>
-
-                    </h6>
-
-
-                    <p class="p-sm">
-                      Mâkul ücret politikamızla tanışın.
-                    </p>
-                  </div>
-                </div>
-              </a>
+              </el-card>
 
             </div>
           </div>
@@ -227,7 +190,7 @@
             <!-- IMAGE BLOCK -->
             <div class="col-md-5 col-lg-6">
               <div class="content-5-img right-column pc-20 text-center wow fadeInRight" data-wow-delay="0.6s">
-                <img class="img-fluid" src="/images/caba.png" alt="İş Hesap Kobi" />
+                <img class="img-fluid" src="/anasayfa/1.png" alt="İş Hesap Kobi" />
               </div>
             </div>
 
@@ -285,18 +248,13 @@
                 </span>
 
                 <!-- Title -->
-                <h2 class="h2-md">Etkin, Hızlı, Pratik Yazılım Çözümleri</h2>
+                <h2 class="h2-md">Termal Yazıcı ve Mutfak Ekranı</h2>
 
                 <!-- Text -->
                 <p class="p-lg">
-                  KOBİ, Ön Muhasebe ve Resmi Muhasebe yazılım çözümlerimiz ile
-                  müşterilerimize hizmet sunmaktayız. En küçüğünden en büyüğüne
-                  kadar bir işletmenin bütün muhasebe ihtiyaçlarını
-                  karşılayabilecek yazılım alternatiflerimiz bulunmaktadır.
-                  Paketler bölümünden mevcut ürünlerimize ve fiyatlarına
-                  kolaylıkla ulaşabilirsiniz. Sizlere değer katmak amacıyla
-                  yazılım çözümleri üretmekte ve ihtiyaçlarınız doğrultusunda
-                  geliştirmekteyiz.
+                  MasaHesap sizi mutfakta sadece ekran veya sadece yazıcı kullanmaya zorlamaz. İsterseniz mutfakta tablet,
+                  laptop, pc, all in one gibi cihazlar kullanarak mutfağa gelen siparişleri bu ekranlarda takip edebilir,
+                  isterseniz de termal yazıcı ile siparişlerinizin ilgili yazıcıdan çıkmasını sağlayabilirsiniz.
                 </p>
               </div>
             </div>
@@ -305,7 +263,7 @@
             <!-- IMAGE BLOCK -->
             <div class="col-md-5 col-lg-6 m-top">
               <div class="img-block right-column pc-15 mb-60 wow fadeInLeft" data-wow-delay="0.6s">
-                <img class="img-fluid" src="/images/etkin.png" alt="İş Hesap Kobi" />
+                <img class="img-fluid" src="/anasayfa/2.png" alt="İş Hesap Kobi" />
               </div>
             </div>
           </div>
@@ -319,7 +277,7 @@
             <!-- IMAGE BLOCK -->
             <div class="col-md-5 col-lg-6">
               <div class="img-block left-column pc-25 mb-40 wow fadeInRight" data-wow-delay="0.6s">
-                <img class="img-fluid" src="/tasarim/kobi/1.png" alt="İş Hesap Kobi" />
+                <img class="img-fluid" src="/anasayfa/3.png" alt="İş Hesap Kobi" />
               </div>
             </div>
 
@@ -331,29 +289,24 @@
 
                 <!-- Title -->
                 <h2 class="h2-md">
-                  Tüm Favori İçeriğinize Hızlı ve Güvenli Erişim
+                  Paket Siparişi ve Kurye Yönetimi
                 </h2>
 
                 <!-- List -->
-                <ul class="simple-list">
-                  <li class="list-item">
-                    <p class="p-lg">
-                      Full entegre çözümler sunmaktayız. KOBİ yazılımı ile aynı
-                      bilgiyi tekrar tekrar yazmak yerine bir defa giriş
-                      yapacaksınız. Sistem ilgili yerlere gereken bilgileri
-                      otomatik aktaracaktır. Sizleri sürekli aynı bilgileri
-                      yazma zahmetinden kurtaracak, esnek bir yapıdadır.
-                    </p>
-                  </li>
+                <div class="simple-list">
 
-                  <li class="list-item">
-                    <p class="p-lg">
-                      Ön Muhasebe ve Resmi Muhasebe yazılımları ile de entegre
-                      çalışabilmektedir. Excell veri aktarımları ile APİ,
-                      konnektör gibi ilave yazılımlara ihtiyaç duymayacaksınız.
-                    </p>
-                  </li>
-                </ul>
+                  <p class="p-lg">
+                    MasaHesap ile paket siparişlerinizi çok daha kolay şekilde yönetebilirsiniz. Paket siparişlerinizin
+                    teslim edileceği müşterilerinize ait bilgileri kolayca kayıt altında tutabilirsiniz. Bu özellik ile
+                    paket siparişlerinizin teslim edileceği müşterilerinize ait bilgileri kolayca sisteme kaydedebilir,
+                    ayrıca siparişlerinizi teslim eden kuryelerinizin takibini de gerçekleştirebilirsiniz. Dilerseniz
+                    mobil uygulamamız üzerinden kuryelerinizin kendi paket siparişlerini takip edebilmelerini de
+                    sağlayabilirsiniz.
+                  </p>
+
+
+
+                </div>
               </div>
             </div>
             <!-- END TEXT BLOCK -->
@@ -462,19 +415,15 @@
             <div class="col-lg-5">
               <div class="txt-block left-column mb-40 wow fadeInRight" data-wow-delay="0.6s">
                 <!-- Title -->
-                <h2 class="h2-xs">
-                  Hızlı ve Hatasız Muhasebe Ortamı
+                <h2 class="h2-xs text-nowrap">
+                  Müşteri Yönetimi
                 </h2>
 
                 <!-- Text -->
                 <p class="p-lg">
-                  Mobil desteği ile KOBİ yazılımımız cep telefonlarından
-                  e-fatura düzenlenmesine olanak sağlamaktadır. Böylece cep
-                  telefonunuzun yanında olduğu her yerde e-fatura
-                  düzenleyebilecek, cari ekleyebilecek, sipariş, kasa ve banka
-                  takibi yapabileceksiniz. Android, IOS, gibi cep telefonu
-                  işletim sistemlerinde KOBİ yazılımını istediğiniz gibi
-                  kullanabileceksiniz.
+                  MasaHesap ile müşteri yönetimi oldukça kolaydır. İşletmenize gelen müşterileri kolayca kayıt edebilir,
+                  onlara bakiye tanımlayabilirsiniz.CallerID özelliği ile arayan müşterilerinizin tüm bilgilerini
+                  görebilirsiniz böylece siparişinizi çok daha hızlı şekilde alabilirsiniz.
                 </p>
               </div>
             </div>
@@ -483,7 +432,7 @@
             <!-- IMAGE BLOCK -->
             <div class="col-lg-7">
               <div class="content-12-img right-column wow fadeInLeft" data-wow-delay="0.6s">
-                <img class="img-fluid" src="/tasarim/kobi/2.png" alt="İş Hesap Kobi" />
+                <img class="img-fluid" src="/anasayfa/4.png" alt="İş Hesap Kobi" />
               </div>
             </div>
           </div>
@@ -505,7 +454,7 @@
 
           <div class="col-md-5 col-lg-6">
             <div class="img-block left-column pc-20 mb-40 wow fadeInRight" data-wow-delay="0.6s">
-              <img class="img-fluid" src="/tasarim/kobi/3.png" alt="İş Hesap Kobi" />
+              <img class="img-fluid" src="/anasayfa/5.png" alt="İş Hesap Kobi" />
             </div>
           </div>
 
@@ -516,88 +465,21 @@
               <span class="section-id grey-color">Sadeliğin Güzelliği</span>
 
               <!-- Title -->
-              <h2 class="h2-md">Güzel,Sade Tasarım</h2>
+              <h2 class="h2-md">Çoklu Şube Yönetimi</h2>
 
               <!-- List -->
-              <ul class="simple-list">
-                <li class="list-item">
-                  <p class="p-lg">
-                    KOBİ çözümümüz her işletmenin ihtiyaç duyacağı temel
-                    bilgilere hızlı ve basit bir şekilde erişim sağlaması
-                    esasına göre hazırlanmıştır
-                  </p>
-                </li>
+              <div class="simple-list">
 
-                <li class="list-item">
-                  <p class="p-lg">
-                    KOBİ yazılımı ile menüler arasında kaybolmadan, bir ekrandan
-                    diğerine geçmeden aradığınız bilgiye rahatça
-                    ulaşabilirsiniz.
-                  </p>
-                </li>
+                <p class="p-lg">
+                  MasaHesap çoklu şube yönetimi (Patron Uygulaması) ile işletmenizin bütün şubelerini,tek bir noktadan
+                  yönetmenizi sağlar. Şubelerinizin genel durumları, masa doluluk oranları, günlük sipariş sayısı ve daha
+                  birçok veriyi anlık takip etmenizi sağlar. Üstelik tüm bunlar için ek ücret ödemezsiniz.
+                </p>
 
-                <li class="list-item">
-                  <p class="p-lg">
-                    KOBİ yazılımı ile yazılımı kullanan personellere
-                    yetkilendirme yapabilirsiniz. Böylece herkes kendi yetkisi
-                    ve görevi dahilinde yazılımı kullanabilir
-                  </p>
-                </li>
-              </ul>
+              </div>
             </div>
           </div>
 
-          <!-- TEXT BLOCK -->
-          <div class="col-md-7 col-lg-6">
-            <div class="txt-block right-column mb-40 wow fadeInLeft" data-wow-delay="0.6s">
-              <!-- Section ID -->
-              <span class="section-id grey-color">Fatura Kolaylığı</span>
-
-              <!-- Title -->
-              <h2 class="h2-md">Fatura Modülü</h2>
-
-              <!-- List -->
-
-              <p class="p-lg">
-                KOBİ’ler için hem mobil hem de web üzerinden hızlı e-fatura,
-                e-arşiv fatura düzenleme imkanı sunmaktayız. KOBİ’lere yönelik
-                hem esnek hem pratik tüm uygulamalara hızla erişebileceğiniz
-                pratik bir sistem sizleri beklemektedir. Elektronik fatura
-                düzenlemek hiç bu kadar kolay olmamıştı. Faturalarınızın
-                takibini KOBİ sistemi ile gerçekleştirebilirsiniz
-              </p>
-            </div>
-          </div>
-
-          <div class="col-md-5 col-lg-6">
-            <div class="img-block left-column pc-20 mb-40 wow fadeInRight" data-wow-delay="0.6s">
-              <img class="img-fluid" style="margin-top: 80px" src="/tasarim/kobi/4.png" alt="İş Hesap Kobi" />
-            </div>
-          </div>
-
-          <div class="col-md-5 col-lg-6">
-            <div class="img-block left-column pc-20 mt-60 wow fadeInRight" data-wow-delay="0.6s">
-              <img class="img-fluid" style="margin-top: 80px" src="/tasarim/kobi/5.png" alt="İş Hesap Kobi" />
-            </div>
-          </div>
-          <!-- TEXT BLOCK -->
-          <div class="col-md-7 col-lg-6">
-            <div class="txt-block right-column mb-40 wow fadeInLeft" data-wow-delay="0.6s">
-              <!-- Section ID -->
-              <span class="section-id grey-color">Sipariş,Kasa,Banka</span>
-
-              <!-- Title -->
-              <h2 class="h2-md">Sipariş,Kasa,Banka</h2>
-
-              <p class="p-lg">
-                KOBİ yazılımını kullanarak siparişlerinizin takibini
-                yapabilirsiniz. Ayrıca kasa, banka işlemlerinizi
-                gerçekleştirebilirsiniz. Cari ekleyebilir, fatura düzenlerken
-                carilerinizi seçebilir ve pek çok fatura şablonu
-                oluşturabilirsiniz.
-              </p>
-            </div>
-          </div>
         </div>
         <!-- End row -->
       </div>
@@ -878,14 +760,14 @@ export default {
   }
 }
 
-.feature-box {
+.card-kutu {
   box-shadow: 2px 2px 28px 3px rgba(0, 0, 0, 0.07);
   border-radius: 15px;
-  height: 170px;
   transition: all 300ms ease-in-out;
 }
 
-.feature-box:hover {
+
+.card-kutu:hover {
   transform: scale(1.08);
   transition: all 300ms ease-in-out;
 

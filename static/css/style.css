@@ -1864,7 +1864,7 @@ h5.sm-title {
   left: calc(50% - 100px);
   top: 50%;
   transition-duration:300ms;
-  width: 210px;
+  width: 100px;
   animation: cssload-loader 3.9s infinite ease;
   -o-animation: cssload-loader 3.9s infinite ease;
   -ms-animation: cssload-loader 3.9s infinite ease;
