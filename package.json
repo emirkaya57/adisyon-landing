@@ -1,21 +1,24 @@
 {
-  "name": "adisyon-landing",
+  "name": "landing",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "deploy": "sudo rsync -av -e 'ssh -i kuvars_eu1.pem' ../landing/dist/ ubuntu@3.121.175.27:/var/www/html/ishesap/",
+    "publish": "npm run build && npm run generate && npm run deploy",
+    "connect": "sudo ssh -i kuvars_eu1.pem ubuntu@3.121.175.27"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
+    "bootstrap-icons": "^1.10.2",
     "core-js": "^3.25.3",
     "element-ui": "^2.15.10",
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
-  },
-  "devDependencies": {}
+  }
 }
