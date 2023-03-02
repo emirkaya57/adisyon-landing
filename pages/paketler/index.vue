@@ -53,7 +53,7 @@
                   Dene</a>
 
                 <!-- Pricing Trial Link -->
-                <a href="/kobi" style="text-decoration: none;" class="pricing-trial-link">Detaylar</a>
+                <!-- <a href="/kobi" style="text-decoration: none;" class="pricing-trial-link">Detaylar</a> -->
               </div>
 
               <!-- Plan Description -->
@@ -114,7 +114,7 @@
                   Dene</a>
 
                 <!-- Pricing Trial Link -->
-                <a href="/onmuhasebe" style="text-decoration: none;" class="pricing-trial-link">Detaylar</a>
+                <!--  <a href="/onmuhasebe" style="text-decoration: none;" class="pricing-trial-link">Detaylar</a> -->
               </div>
 
               <!-- Plan Description -->
@@ -336,6 +336,8 @@ export default {
 };
 </script>
 
-<style>.el-switch__label span {
+<style>
+.el-switch__label span {
   font-size: 13px !important;
-}</style>
+}
+</style>
