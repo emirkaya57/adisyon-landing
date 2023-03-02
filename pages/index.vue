@@ -7,7 +7,7 @@
 
     <!-- HERO-12
 			============================================= -->
-    <section id="hero-12" class="bg_scroll hero-section division">
+    <section id="hero-12" class="bg_scroll hero-section division" style="height:100vh">
       <div class="container white-color">
         <div class="row d-flex align-items-center">
           <!-- HERO TEXT -->
@@ -825,7 +825,7 @@
 <script>
 export default {
   head: {
-    title: "Kobi - İş Hesap",
+    title: "MasaHesap",
     meta: [
       {
         hid: "description",

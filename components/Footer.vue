@@ -2,7 +2,7 @@
   <footer id="footer-1" class="footer division">
     <div class="container">
       <!-- FOOTER CONTENT -->
-      <div class="row">
+      <div class="row justify-content-between">
         <!-- FOOTER INFO -->
         <div class=" col-md-3">
           <div class="">
@@ -11,29 +11,6 @@
 
         </div>
         <!-- FOOTER LINKS -->
-        <div class="footer-links col-12 col-md-3">
-          <!-- Title -->
-          <h5 class="h5-xs">Ürünlerimiz</h5>
-
-          <!-- Footer Links -->
-          <ul class="foo-links clearfix">
-            <li>
-              <p class="p-md">
-                <a href="/kobi" target="_blank">Kobi</a>
-              </p>
-            </li>
-            <li>
-              <p class="p-md">
-                <a href="/onmuhasebe" target="_blank">Ön Muhasebe</a>
-              </p>
-            </li>
-            <!--   <li>
-                <p class="p-md">
-                  <a href="/muhasebe" target="_blank">Resmi Muhasebe</a>
-                </p>
-              </li> -->
-          </ul>
-        </div>
         <div class="col-12 col-md-3">
           <div class="footer-links">
             <!-- Title -->
@@ -42,16 +19,6 @@
 
 
             <ul class="foo-links clearfix">
-              <li>
-                <p class="p-md">
-                  <a href="https://ishesap.com/docs" target="_blank">Doküman</a>
-                </p>
-              </li>
-              <li>
-                <p class="p-md">
-                  <a href="https://ishesap.com/blog" target="_blank">Blog</a>
-                </p>
-              </li>
               <li>
                 <p class="p-md">
                   <a href="/hakkimizda" target="_blank">Hakkımızda</a>
@@ -95,8 +62,7 @@
                 class="foo-instagram">Instagram</a>
             </h5>
             <h5 class="h5-xs">
-              <a href="https://www.linkedin.com/showcase/i%CC%87shesap/" target="_blank"
-                class="foo-linkedin">Linkedin</a>
+              <a href="https://www.linkedin.com/showcase/i%CC%87shesap/" target="_blank" class="foo-linkedin">Linkedin</a>
             </h5>
             <h5 class="h5-xs">
               <a href="https://www.youtube.com/channel/UCZk-s2MrtbtHryIXpgl5c6A" target="_blank"
@@ -134,6 +100,4 @@
 export default {};
 </script>
 
-<style>
-
-</style>
+<style></style>

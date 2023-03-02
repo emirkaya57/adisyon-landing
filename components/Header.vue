@@ -8,32 +8,8 @@
             <a href="/"><img height="45px" src="/images/is_black3.png" alt="header-logo" /></a>
           </div>
           <el-menu mode="horizontal" class="p-1">
-            <el-menu-item><a href="/kobi">KOBİ</a></el-menu-item>
-            <el-menu-item><a href="/onmuhasebe">Ön Muhasebe</a></el-menu-item>
-
-            <!--  <el-menu-item index="/muhasebe">
-              <a href="/muhasebe"> Resmi Muhasebe </a></el-menu-item
-            > -->
             <el-submenu index="/diğer el-sub-menu">
-              <template slot="title" class="p-4"><a>Diğer</a></template>
-              <el-menu-item><a class="p-3" href="https://ishesap.com/docs"
-                  style="font-size:18px; font-family: Arial, Helvetica, sans-serif  ; font-weight:600">Doküman</a></el-menu-item>
-              <!--  <el-menu-item
-                ><a
-                class="p-3"
-                  href="https://ishesap.com/blog"
-                  style="font-size:18px; font-family: Arial, Helvetica, sans-serif  ; font-weight:600"
-                  >Blog</a
-                ></el-menu-item 
-              > -->
-              <!--   <el-menu-item
-                ><a
-                  class="p-3"
-                  href="/sss"
-                  style="font-size:18px; font-family: Arial, Helvetica, sans-serif  ; font-weight:600"
-                  >SSS</a
-                ></el-menu-item
-              > -->
+              <template slot="title"><a>Diğer</a></template>
               <el-menu-item>
                 <a class="p-3" href="/iletisim"
                   style="font-size:18px; font-family: Arial, Helvetica, sans-serif  ; font-weight:600">İletişim</a></el-menu-item>
@@ -48,7 +24,6 @@
           </el-menu>
         </div>
       </div>
-
       <div v-else>
         <div class="d-flex justify-content-between" style="padding: 20px; width: 100vw; background-color: #fff">
           <a href="/">
@@ -64,18 +39,6 @@
                 Kapat
               </a>
             </el-menu-item>
-            <hr />
-            <el-menu-item><a
-                style="font-size:18px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; "
-                href="/kobi">KOBİ</a></el-menu-item>
-
-            <el-menu-item><a
-                style="font-size:18px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; "
-                href="/onmuhasebe">Ön Muhasebe</a> </el-menu-item>
-
-            <!--   <el-menu-item>
-              <a style="font-size:18px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; "  href="/muhasebe"> Resmi Muhasebe </a></el-menu-item
-            > -->
             <hr />
             <el-menu-item><a
                 style="font-size:16px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; "
