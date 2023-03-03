@@ -9,13 +9,12 @@
           </div>
           <el-menu mode="horizontal" class="p-1">
             <el-submenu index="/diğer el-sub-menu">
-              <template slot="title"><a>Diğer</a></template>
+              <template slot="title"><a
+                  style=" font-size: 20px;color: #463853 !important;font-weight: 600;font-family: 'Kanit' sans-serif;">Diğer</a></template>
               <el-menu-item>
-                <a class="p-3" href="/iletisim"
-                  style="font-size:18px; font-family: Arial, Helvetica, sans-serif  ; font-weight:600">İletişim</a></el-menu-item>
+                <a class="p-3" href="/iletisim">İletişim</a></el-menu-item>
               <el-menu-item>
-                <a class="p-3" href="/paketler"
-                  style="font-size:18px; font-family:Arial, Helvetica, sans-serif  ; font-weight:600">Paketler</a></el-menu-item>
+                <a class="p-3" href="/paketler">Paketler</a></el-menu-item>
             </el-submenu>
             <el-menu-item><a target="_blank" href="https://muhasebe.ishesap.com/login">Giriş</a></el-menu-item>
             <el-menu-item><a target="_blank" class="btn btn-skyblue" style="color: #fff !important"
@@ -98,6 +97,7 @@ export default {
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500&display=swap');
 
 .el-menu-item.is-active {
   border-bottom: none;
@@ -148,7 +148,14 @@ export default {
   font-size: 20px;
   color: #463853 !important;
   font-weight: 600;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Kanit' sans-serif;
+}
+
+.el-submenu a {
+  font-size: 20px;
+  font-family: 'Kanit' sans-serif;
+  font-weight: 500;
+
 }
 
 

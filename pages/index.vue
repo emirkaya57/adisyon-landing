@@ -57,28 +57,31 @@
 
             <div id="fb-5-1" class="col-md-4">
 
-              <el-card class="fbox-5 pc-25 mb-40 wow card-kutu fadeInUp p-4 text-center" data-wow-delay="0.4s">
-
-                <div class="fbox-txt">
-
-                  <h6 style="color:#000" class="h6-sm">Düşük Maliyet
-                  </h6>
-
-
-                  <p class="p-sm" style="color:#7F8487">
-                    MasaHesap'ı kullanmak için pahalı bir lisans almanız gerekmez. Yıllık bakım ücreti de ödemezsiniz.
-                    Abonelik sistemi sayesinde, kullandığınız kadar ödersiniz.
-                  </p>
+              <el-card class="fbox-5 pc-25 mb-40 wow card-kutu fadeInUp text-center" data-wow-delay="0.4s">
+                <div>
+                  <div class="mb-2">
+                    <img src="/ozellik/discount.png" alt="düşük maliyet">
+                  </div>
+                  <div class="fbox-txt">
+                    <h6 style="color:#000" class="h6-sm">Düşük Maliyet
+                    </h6>
+                    <p class="p-sm" style="color:#7F8487">
+                      MasaHesap'ı kullanmak için pahalı bir lisans almanıza gerek yoktur. Yıllık bakım ücreti de
+                      ödemezsiniz.
+                      Abonelik sistemi sayesinde, kullandığınız kadar ödersiniz.
+                    </p>
+                  </div>
                 </div>
               </el-card>
-
             </div>
-
 
             <div id="fb-5-1" class="col-md-4">
 
-              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu p-4 text-center" data-wow-delay="0.4s">
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu text-center" data-wow-delay="0.4s">
 
+                <div class="mb-2">
+                  <img src="/ozellik/easy.png" alt="kolay kullanım">
+                </div>
                 <div class="fbox-txt">
 
                   <h6 style="color:#000" class="h6-sm">Kolay Kullanım
@@ -86,8 +89,8 @@
 
 
                   <p class="p-sm" style="color:#7F8487">
-                    MasaHesap, eğitim almayı gerektirmeden kullanabileceğiniz şekilde tasarlanmıştır. Bu sayede tüm
-                    operasyonlarınızı hızlı ve kolay bir şekilde yönetebilirsiniz.
+                    MasaHesap, herhangi bir eğitim gerekmeden kullanabileceğiniz şekilde tasarlanmıştır. Bu sayede
+                    yazılımımızı kolay bir şekilde kullanabilirsiniz.
                   </p>
                 </div>
               </el-card>
@@ -95,8 +98,11 @@
 
             <div id="fb-5-1" class="col-md-4">
 
-              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu p-4 text-center" data-wow-delay="0.4s">
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu text-center" data-wow-delay="0.4s">
 
+                <div class="mb-2">
+                  <img src="/ozellik/devices.png" alt="çoklu cihaz">
+                </div>
                 <div class="fbox-txt">
 
                   <h6 style="color:#000" class="h6-sm">İstediğiniz Cihazdan
@@ -115,8 +121,11 @@
 
             <div id="fb-5-1" class="col-md-4">
 
-              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu p-4 text-center" data-wow-delay="0.4s">
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu text-center" data-wow-delay="0.4s">
 
+                <div class="mb-2">
+                  <img src="/ozellik/monitor.png" alt="gelişmiş raporlama">
+                </div>
                 <div class="fbox-txt">
 
                   <h6 style="color:#000" class="h6-sm">Gelişmiş Raporlama
@@ -135,17 +144,20 @@
 
             <div id="fb-5-1" class="col-md-4">
 
-              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu p-4 text-center" data-wow-delay="0.4s">
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu text-center" data-wow-delay="0.4s">
 
+                <div class="mb-2">
+                  <img src="/ozellik/qr-menu.png" alt="kolay kullanım">
+                </div>
                 <div class="fbox-txt">
 
-                  <h6 style="color:#000" class="h6-sm">Stok Takibi
+                  <h6 style="color:#000" class="h6-sm">Qr Menü
                   </h6>
 
 
                   <p class="p-sm" style="color:#7F8487">
-                    MasaHesap ile ürünlerinizin stok takibini yapabilirsiniz. Tükenen veya kritik seviyenin altına inen
-                    stoklar için, MasaHesap sizi anında uyarır
+                    MasaHesap ile tanımladığınız ürünlerinizi qr menüde listeyebilirsiniz.İstediğiniz ürünleri favori ürün
+                    olarak belirleyebilirsiniz
                   </p>
                 </div>
               </el-card>
@@ -153,17 +165,81 @@
             </div>
             <div id="fb-5-1" class="col-md-4">
 
-              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu p-4 text-center" data-wow-delay="0.4s">
-
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu text-center" data-wow-delay="0.4s">
+                <div class="mb-2">
+                  <img src="/ozellik/backup.png" alt="gelişmiş yedekleme">
+                </div>
                 <div class="fbox-txt">
 
-                  <h6 style="color:#000" class="h6-sm"> Üst Seviye Güvenlik
+                  <h6 style="color:#000" class="h6-sm"> Üst Seviye Yedekleme
                   </h6>
 
 
                   <p class="p-sm" style="color:#7F8487">
                     MasaHesap, verilerinizi yüksek güvenliğe sahip sunucularda tutar.
                     İşletmenizdeki cihazlarınızda sorun olsa bile verileriniz güvende kalır.
+                  </p>
+                </div>
+              </el-card>
+
+            </div>
+            <div id="fb-5-1" class="col-md-4">
+
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu text-center" data-wow-delay="0.4s">
+                <div class="mb-2">
+                  <img src="/ozellik/security.png" alt="gelişmiş yedekleme">
+                </div>
+                <div class="fbox-txt">
+
+                  <h6 style="color:#000" class="h6-sm">Güvenlik
+                  </h6>
+
+
+                  <p class="p-sm" style="color:#7F8487">
+                    Dışarıdan erişimi engelleyen güvenlik alt yapımız ile sisteminizde yeralan tüm bilgileri sadece sizin
+                    belirlediğiniz kişilere erişimini açabilirsiniz.
+                  </p>
+                </div>
+              </el-card>
+
+            </div>
+            <div id="fb-5-1" class="col-md-4">
+
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu text-center" data-wow-delay="0.4s">
+                <div class="mb-2">
+                  <img src="/ozellik/authority.png" alt="gelişmiş yedekleme">
+                </div>
+                <div class="fbox-txt">
+
+                  <h6 style="color:#000" class="h6-sm">Yetkilendirme
+                  </h6>
+
+
+                  <p class="p-sm" style="color:#7F8487">
+                    Tüm işletme operasyonunu kullanıcılarınıza özel ve bölgelere özel yetkilendirebilirsiniz.Böylelikle
+                    işletme takini daha
+                    kolay hale getirebilirsiniz
+                  </p>
+                </div>
+              </el-card>
+
+            </div>
+
+            <div id="fb-5-1" class="col-md-4">
+
+              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu text-center" data-wow-delay="0.4s">
+                <div class="mb-2">
+                  <img src="/ozellik/integration.png" alt="gelişmiş yedekleme">
+                </div>
+                <div class="fbox-txt">
+
+                  <h6 style="color:#000" class="h6-sm">Entegrasyon
+                  </h6>
+
+
+                  <p class="p-sm" style="color:#7F8487">
+                    Tüm sipariş operasyonunu sipariş yönetimi yapan diğer uygulamalarla eş zamanlı olarak
+                    çalışabilirsiniz.Siparişe giden kuryelerinizi tek panelden takip edebilirsiniz.
                   </p>
                 </div>
               </el-card>
@@ -694,7 +770,7 @@
 
     <!-- DOWNLOAD-1
 			============================================= -->
-    <mobile-landing></mobile-landing>
+    <referans></referans>
     <!-- END DOWNLOAD-1 -->
 
     <!-- FOOTER-4
@@ -771,5 +847,17 @@ export default {
   transform: scale(1.08);
   transition: all 300ms ease-in-out;
 
+}
+
+.resim-2 {
+  display: none;
+}
+
+.resim-div:hover .resim-2 {
+  display: block;
+}
+
+.resim-div:hover .resim-1 {
+  display: none;
 }
 </style>
