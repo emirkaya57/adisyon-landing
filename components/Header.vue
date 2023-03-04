@@ -5,11 +5,12 @@
       <div v-if="width > 1200" class="position-fixed py-3 top-0 w-100 header-wraper">
         <div class="container d-flex justify-content-between align-items-center">
           <div class="d-flex justify-content-center">
-            <a href="/"><img height="45px" src="/images/is_black3.png" alt="header-logo" /></a>
+            <a href="/"><img style="width: 200px;" src="/images/is_black3.png" alt="header-logo" /></a>
           </div>
           <el-menu mode="horizontal" class="p-1">
-            <el-menu-item><a target="_blank" href="">Giriş</a></el-menu-item>
-            <el-menu-item><a target="_blank" class="btn btn-skyblue" style="color: #fff !important" href="">Ücretsiz
+            <el-menu-item><a target="_blank" href="https://adisyon.masahesap.com/">Giriş</a></el-menu-item>
+            <el-menu-item><a target="_blank" class="btn btn-skyblue" style="color: #fff !important"
+                href="https://adisyon.masahesap.com/">Ücretsiz
                 Dene</a>
             </el-menu-item>
           </el-menu>
@@ -32,11 +33,11 @@
             </el-menu-item>
             <hr />
             <el-menu-item><a
-                style="font-size:18px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; " href=""
-                class="btn btn-default">Giriş</a></el-menu-item>
+                style="font-size:18px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; "
+                href="https://adisyon.masahesap.com/" class="btn btn-default">Giriş</a></el-menu-item>
             <el-menu-item style="background: rgba(0, 0, 255, 0.2)">
               <a style="font-size:18px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; "
-                href="">
+                href="https://adisyon.masahesap.com/">
                 Ücretsiz Dene
               </a>
             </el-menu-item>

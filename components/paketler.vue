@@ -28,23 +28,22 @@
                             <span style="font-size:17px">%20 indirim</span>
                             <h5 class="h5-md">Kobi</h5>
                             <sup class="dark-color">₺</sup>
-                            <span class="dark-color" v-if="kobi_para">769,90<sub style="font-size:15px">/
-                                    YILLIK</sub></span>
-                            <span class="dark-color" v-else>79,90 <sub style="font-size:15px">/ AYLIK</sub></span>
+                            <span class="dark-color" v-if="kobi_para">1<sub style="font-size:15px">/
+                                    GÜNLÜK</sub></span>
+                            <span class="dark-color" v-else>25 <sub style="font-size:15px">/ AYLIK</sub></span>
 
                             <div class="d-flex justify-content-center my-2">
                                 <label>Aylık</label>
                                 <el-switch class="mx-2" style="display: block" v-model="kobi_para" active-color="#434242"
                                     inactive-color="#434242" size="large">
                                 </el-switch>
-                                <label class="">Yılık</label>
+                                <label class="">Günlük</label>
                             </div>
 
                             <p class="p-sm">Kobi paketimiz için bunu seçebilirsiniz</p>
 
                             <!-- Pricing Table Button  -->
-                            <a href="https://muhasebe.ishesap.com/register"
-                                class="btn btn-tra-grey skyblue-hover mb-15">Şimdi
+                            <a href="https://adisyon.masahesap.com" class="btn btn-tra-grey skyblue-hover mb-15">Şimdi
                                 Dene</a>
 
                             <!-- Pricing Trial Link -->
@@ -88,8 +87,8 @@
                             <span style="font-size:17px">%22 indirim</span>
                             <h5 class="h5-md">Ön Muhasebe</h5>
                             <sup class="">₺</sup>
-                            <span class="" v-if="on_para">1,149,90 <sub style="font-size:16px">/ YILLIK</sub></span>
-                            <span class="" v-else>119,90 <sub style="font-size:15px">/ AYLIK</sub></span>
+                            <span class="" v-if="on_para">1 <sub style="font-size:16px">/ GÜNLÜK</sub></span>
+                            <span class="" v-else>30 <sub style="font-size:15px">/ AYLIK</sub></span>
 
 
                             <div class="d-flex justify-content-center my-2">
@@ -97,7 +96,7 @@
                                 <el-switch class="mx-2" style="display: block" v-model="on_para" active-color="#434242"
                                     inactive-color="#434242" size="large">
                                 </el-switch>
-                                <label class="">Yılık</label>
+                                <label class="">Günlük</label>
                             </div>
 
                             <p class="p-sm">
@@ -105,8 +104,7 @@
                             </p>
 
                             <!-- Pricing Table Button  -->
-                            <a href="https://muhasebe.ishesap.com/register"
-                                class="btn btn-tra-white skyblue-hover mb-15">Şimdi
+                            <a href="https://adisyon.masahesap.com" class="btn btn-tra-white skyblue-hover mb-15">Şimdi
                                 Dene</a>
 
                             <!-- Pricing Trial Link -->
@@ -147,15 +145,15 @@
                         <div class="pricing-plan bg_white">
                             <h5 class="h5-md">Resmi Muhasebe</h5>
                             <sup class="dark-color">₺</sup>
-                            <span class="dark-color" v-if="mhsb_para">***<sub style="font-size:15px"></sub></span>
-                            <span class="dark-color" v-else>159.90<sub style="font-size:15px">/ AYLIK</sub> </span>
+                            <span class="dark-color" v-if="mhsb_para">1<sub style="font-size:15px">/GÜNLÜK</sub></span>
+                            <span class="dark-color" v-else>60<sub style="font-size:15px">/ AYLIK</sub> </span>
 
                             <div class="d-flex justify-content-center my-2">
                                 <label>Aylık</label>
                                 <el-switch class="mx-2" style="display: block" v-model="mhsb_para" active-color="#434242"
                                     inactive-color="#434242" size="large">
                                 </el-switch>
-                                <label class="">Yılık</label>
+                                <label class="">Günlük</label>
                             </div>
 
                             <p class="p-sm">
@@ -163,11 +161,8 @@
                             </p>
 
                             <!-- Pricing Table Button  -->
-                            <a href="javascript:void(0)" class="btn btn-tra-grey  mb-15">Çok Yakında</a>
+                            <a href="https://adisyon.masahesap.com" class="btn btn-tra-grey  mb-15">Şimdi Dene</a>
 
-                            <!-- Pricing Trial Link -->
-                            <a href="javascript:void(0)" style="text-decoration: none;"
-                                class="pricing-trial-link">Detaylar</a>
                         </div>
 
                         <!-- Plan Description -->

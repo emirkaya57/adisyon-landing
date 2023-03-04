@@ -15,7 +15,7 @@
                         <!-- TERMS TITLE -->
                         <div class="terms-title text-center">
                             <!-- Title -->
-                            <h2>İŞHESAP ÖN MUHASEBE YAZILIMI 1 YIL SÜRELİ KULLANIM LİSANS HAKKI SÖZLEŞMESİ
+                            <h2>MASAHESAP ADİSYON YAZILIMI 1 YIL SÜRELİ KULLANIM LİSANS HAKKI SÖZLEŞMESİ
                             </h2>
                         </div>
                         <!-- END TERMS TITLE -->
@@ -42,8 +42,8 @@
 
                             <!-- Text -->
                             <p class="p-lg">
-                                1.1 İŞHESAP Web Tabanlı Ön Muhasebe, programı, İŞHESAP YAZILIM TİCARET LTD.ŞTİ’ nin
-                                Lisanslı bir iş uygulamasıdır. İŞHESAP ÖN MUHASEBE olarak anılacaktır.
+                                1.1 İŞHESAP Web Tabanlı Adisyon, programı, İŞHESAP YAZILIM TİCARET LTD.ŞTİ’ nin
+                                Lisanslı bir iş uygulamasıdır. MASAHESAP ADİSYON olarak anılacaktır.
                                 1.2 Yazılım ve uygulamalarını kullanan kullanıcılar MÜŞTERİ olarak anılacaktır.
                             </p>
 
@@ -86,7 +86,7 @@
                                 </li>
                                 <li>
                                     <p class="p-lg">3.1.4. Münhasır olmayan bu hakkın dışında kalan tüm diğer telif
-                                        hakları ve mülkiyet hakkı İŞHESAP ÖN MUHASEBE üzerinde kalır ve bu sözleşme
+                                        hakları ve mülkiyet hakkı MASAHESAP ADİSYON üzerinde kalır ve bu sözleşme
                                         kapsamı dışındadır.</p>
                                 </li>
                                 <li>
@@ -109,34 +109,34 @@
 
                         <div class="terms-box">
                             <!-- Title -->
-                            <h4 class="h4-sm">5. GARANTİ VE İŞHESAP ÖN MUHASEBE’NİN SORUMLULUKLARININ SINIRLANMASI</h4>
+                            <h4 class="h4-sm">5. GARANTİ VE MASAHESAP ADİSYON’NUNSORUMLULUKLARININ SINIRLANMASI</h4>
 
                             <!-- Text -->
                             <ul>
                                 <li>
-                                    <p class="p-lg">5.1. İŞHESAP ÖN MUHASEBE, yazılım ürünlerinin garanti süresi fatura
-                                        tarihinden itibaren 1 yıldır. Telif hakları İŞHESAP ÖN MUHASEBE’ ye ait olmayan
+                                    <p class="p-lg">5.1. MASAHESAP ADİSYON, yazılım ürünlerinin garanti süresi fatura
+                                        tarihinden itibaren 1 yıldır. Telif hakları MASAHESAP ADİSYON’ a ait olmayan
                                         yazılımların lisans ve garanti koşulları, söz konusu yazılımlarla birlikte
                                         sağlanan dokümantasyonda belirtilmektedir.</p>
                                 </li>
                                 <li>
-                                    <p class="p-lg">5.2. İŞHESAP ÖN MUHASEBE, yazılım ürünlerinin dokümantasyonlarıyla
+                                    <p class="p-lg">5.2. MASAHESAP ADİSYON, yazılım ürünlerinin dokümantasyonlarıyla
                                         uyum içinde olması ve matbu ve/veya manyetik ortamda sağlanan
                                         dokümantasyonlarında tanımlanan işlevleri en iyi şekilde yerine getirmesi için
-                                        gerekli azami özeni göstermektedir. İŞHESAP ÖN MUHASEBE, bu yazılımların
+                                        gerekli azami özeni göstermektedir. MASAHESAP ADİSYON, bu yazılımların
                                         kusursuz, hatasız, mükemmel olduğu ve kullanıcının özel ihtiyaçlarını tamamen
                                         karşılayacağı şeklinde bir iddia ve taahhütte bulunmaz.</p>
                                 </li>
                                 <li>
-                                    <p class="p-lg">5.3. İŞHESAP ÖN MUHASEBE , donanım veya işletim sistemi arızasından,
-                                        İŞHESAP ÖN MUHASEBE tarafından temin edilmiş olsa dahi telif hakları İŞHESAP ÖN
-                                        MUHASEBE’ye ait olmayan veritabanı yazılımından, iletişim ağı (network) tasarım
+                                    <p class="p-lg">5.3. MASAHESAP ADİSYON , donanım veya işletim sistemi arızasından,
+                                        MASAHESAP ADİSYON tarafından temin edilmiş olsa dahi telif hakları MASAHESAP
+                                        ADİSYON’a ait olmayan veritabanı yazılımından, iletişim ağı (network) tasarım
                                         ve bağlantı hatalarından, voltaj dalgalanması ve elektrik kesilmesinden, virüs
                                         bulaşmasından ve benzeri çevresel faktörler ve kullanıcı hatalarından
                                         kaynaklanacak bilgi ve yazılım kayıplarından sorumlu tutulamaz.</p>
                                 </li>
                                 <li>
-                                    <p class="p-lg">5.4. İŞHESAP ÖN MUHASEBE, manyetik ortamda saklanan bilgileri
+                                    <p class="p-lg">5.4. MASAHESAP ADİSYON, manyetik ortamda saklanan bilgileri
                                         garanti edemez. Yazılımların kullanılması ile oluşan bilgilerin düzenli olarak
                                         yedeğinin alınmasından MÜŞTERİ sorumludur.</p>
                                 </li>
@@ -144,13 +144,13 @@
                                     <p class="p-lg">5.5. MÜŞTERİ, kullanım lisansını aldığı yazılımları, yazılım
                                         dokümantasyonunda belirtilen asgari teknik özelliklere sahip bir donanım
                                         üzerinde kullanacağını ve gerekli bu donanımı kendisinin temin edeceğini,
-                                        İŞHESAP ÖN MUHASEBE ’ IN yazılım-donanım uyuşmazlığı ile ilgili hiçbir maddi ve
-                                        hukuki sorumluluğunun bulunmadığını, İŞHESAP ÖN MUHASEBE’ nin sorumluluk
+                                        MASAHESAP ADİSYON ’ IN yazılım-donanım uyuşmazlığı ile ilgili hiçbir maddi ve
+                                        hukuki sorumluluğunun bulunmadığını, MASAHESAP ADİSYON’ nin sorumluluk
                                         sınırının Sözleşme konusu yazılım ürünleri için 1 yıllık kullanım lisansı
                                         verilmesi ile sınırlı olduğunu beyan, kabul ve taahhüt eder.</p>
                                 </li>
                                 <li>
-                                    <p class="p-lg">5.6. İŞHESAP ÖN MUHASEBE, yazılım ürünlerinin yanlış kullanımından
+                                    <p class="p-lg">5.6. MASAHESAP ADİSYON, yazılım ürünlerinin yanlış kullanımından
                                         veya hukuka aykırı işlerde veya kanuna aykırı olarak kullanılmasından dolayı
                                         ortaya çıkabilecek maddi, manevi, hukuki ve mali sonuçlardan, kazanç veya
                                         kayıplardan hiçbir biçimde sorumlu değildir.</p>
@@ -169,16 +169,16 @@
                                         bu şekilde karşılıklı olarak sorumluluklarını sınırlamışlardır.</p>
                                 </li>
                                 <li>
-                                    <p class="p-lg">5.8. İŞHESAP ÖN MUHASEBE, MÜŞTERİ’nin yazılımı kullanmaya başladığı
+                                    <p class="p-lg">5.8. MASAHESAP ADİSYON, MÜŞTERİ’nin yazılımı kullanmaya başladığı
                                         (ilk kez şifre aldığı) tarihten itibaren 1 yıl (On iki ay) süre ile MÜŞTERİ’YE
                                         limitsiz telefon/online desteğini ücretsiz olarak verir. </p>
                                 </li>
                                 <li>
-                                    <p class="p-lg">5.9. Taraflar, İŞHESAP ÖN MUHASEBE, bu sözleşme konusu yazılımlar
+                                    <p class="p-lg">5.9. Taraflar, MASAHESAP ADİSYON, bu sözleşme konusu yazılımlar
                                         üzerinde MÜŞTERİ’YE yalnızca "1 yıllık kullanım lisansı" verdiğini, MÜŞTERİ’NİN
                                         üretkenlik, iş, gelir ve/veya kâr kaybı, yazılımın yerelleştirilmesi, yazılımın
                                         ve verilerin kullanılması gibi nedenlerle ortaya çıkabilecek herhangi bir kayıp
-                                        veya zarar (akde/haksız fiile dayalı zararları) konularında İŞHESAP ÖN MUHASEBE’
+                                        veya zarar (akde/haksız fiile dayalı zararları) konularında MASAHESAP ADİSYON’
                                         nin hiç bir sorumluluğu olmadığı için bunları tazmin etmekle yükümlü
                                         olmayacağını peşinen beyan, kabul ve taahhüt etmişlerdir. Taraflar arasında,
                                         yetkili kişilerin imzasını taşıyan ek bir yazılı sözleşme olmaksızın, hiçbir
@@ -205,8 +205,8 @@
                                     </p>
                                 </li>
                                 <li>
-                                    <p class="p-lg">6.2. İŞHESAP ÖN MUHASEBE tarafından temin edilen uygulama
-                                        yazılımlarının üzerinde çalıştığı ve telif hakları İŞHESAP ÖN MUHASEBE ’ye ait
+                                    <p class="p-lg">6.2. MASAHESAP ADİSYON tarafından temin edilen uygulama
+                                        yazılımlarının üzerinde çalıştığı ve telif hakları MASAHESAP ADİSYON ’ye ait
                                         olmayan veritabanı ve iletişim ağı (network) yazılımları varsa bunların geçerli
                                         ve yeterli kullanım lisansına sahip olup olmadığından münhasıran MÜŞTERİ
                                         sorumludur</p>
@@ -240,11 +240,11 @@
                         <!-- TERMS BOX -->
                         <div class="terms-box">
 
-                            <h4 class="h4-sm">8. İŞHESAP ÖN MUHASEBE CİHAZ, YAZILI DOKÜMAN (DOKÜMANTASYON)</h4>
+                            <h4 class="h4-sm">8. MASAHESAP ADİSYON CİHAZ, YAZILI DOKÜMAN (DOKÜMANTASYON)</h4>
                             <!-- Text -->
                             <p class="p-lg">
-                                Sözleşme konusu yazılım ürünlerinin içinde olduğu İŞHESAP ÖN MUHASEBE Cihaz ve birlikte
-                                verilen dokümanın telif hakları da İŞHESAP ÖN MUHASEBE’ ye (veya telif hakkı İŞHESAP ÖN
+                                Sözleşme konusu yazılım ürünlerinin içinde olduğu MASAHESAP ADİSYON Cihaz ve birlikte
+                                verilen dokümanın telif hakları da MASAHESAP ADİSYON’ ye (veya telif hakkı İŞHESAP ÖN
                                 MUHASEBE’de olmayan ürünler için, hak sahibi firmaya) aittir. Dokümanların
                                 değiştirilmesi, başka amaçlarla kullanılması, kopya edilmesi, çoğaltılması telif
                                 haklarının ihlali anlamına gelir.
@@ -258,10 +258,10 @@
                             <h4 class="h4-sm">9. SÜRÜM/VERSİYON DEĞİŞİMİ VE BAKIM</h4>
                             <!-- Text -->
                             <p class="p-lg">
-                                İŞHESAP ÖN MUHASEBE önceden haber vermeksizin yazılımlarında ve yazılı dokümanlarında
+                                MASAHESAP ADİSYON önceden haber vermeksizin yazılımlarında ve yazılı dokümanlarında
                                 değişiklikler yapma, yazılım ürünlerinin yeni versiyon ve sürümlerini çıkarma hakkına
                                 sahiptir. MÜŞTERİ bu yeni versiyon veya sürümü ve yeni yazılı dokümanı ücretsiz almış
-                                sayılacaktır. İŞHESAP ÖN MUHASEBE, geleneksel olarak, çıkardığı her yeni versiyon için,
+                                sayılacaktır. MASAHESAP ADİSYON, geleneksel olarak, çıkardığı her yeni versiyon için,
                                 eski versiyonla işlenmiş verileri yeni versiyona aktarmayı ve uyumunu sağlamayı beyan ve
                                 taahhüt eder. MÜŞTERİ’nin 1 yıllık kullanıcı lisansı bittiğinde, bunu yine en az 1 yıl
                                 olmak üzere uzatma hakkı bulunmaktadır. Süre uzatıldığında MÜŞTERİ, bu süre içerisinde
@@ -287,7 +287,7 @@
                                         halinde;</p>
                                 </li>
                                 <li>
-                                    <p class="p-lg">10.1.2. MÜŞTERİ’nin İŞHESAP ÖN MUHASEBE’nin telif haklarını ihlal
+                                    <p class="p-lg">10.1.2. MÜŞTERİ’nin MASAHESAP ADİSYON’nin telif haklarını ihlal
                                         etmesi halinde.</p>
                                 </li>
                                 <li>
@@ -302,7 +302,7 @@
                                         lisans bedeli" sözleşme akit tarihinden sona erme tarihine kadar olan süreyi
                                         kapsayan "süreli kullanma lisans bedeline dönüşür. Bu bedel, varsa MÜŞTERİ’nin o
                                         ana kadar ödemiş olduğu bedelden mahsup edilir, yoksa veya yeterli değilse
-                                        MÜŞTERİ’nin bu bedeli İŞHESAP ÖN MUHASEBE’ye ödeme yükümlülüğü devam eder.</p>
+                                        MÜŞTERİ’nin bu bedeli MASAHESAP ADİSYON’ye ödeme yükümlülüğü devam eder.</p>
                                 </li>
                             </ul>
 
@@ -370,7 +370,7 @@
 <script>
 export default {
     head: {
-        title: "İş Hesap",
+        title: "MasaHesap - Kullanıcı Sözleşmesi",
         meta: [
             {
                 hid: "description",
@@ -382,6 +382,4 @@ export default {
 };
 </script>
 
-<style>
-
-</style>
+<style></style>

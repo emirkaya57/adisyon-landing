@@ -15,7 +15,7 @@
             <!-- TERMS TITLE -->
             <div class="terms-title text-center">
               <!-- Title -->
-              <h2>İŞHESAP ÖN MUHASEBE YAZILIMI GİZLİLİK SÖZLEŞMESİ</h2>
+              <h2>MASAHESAP ADİSYON YAZILIMI GİZLİLİK SÖZLEŞMESİ</h2>
             </div>
             <!-- END TERMS TITLE -->
 
@@ -36,19 +36,19 @@
             <div class="terms-box">
               <!-- Title -->
               <h4 class="h4-sm">
-                İŞHESAP ÖN MUHASEBE'de Gizlilik
+                MASAHESAP ADİSYON'de Gizlilik
               </h4>
 
               <!-- Text -->
               <p class="p-lg">
-                Bu gizlilik ilkeleri İŞHESAP YAZILIM TİCARET LTD. ŞTİ. tarafından, İŞHESAP ÖN MUHASEBE Yazılımı'nın
-                gizlilik konusundaki sorumluluklarının tespiti için hazırlanmıştır. Aşağıdaki maddeler ishesap.com ve
-                ishesap.com.tr web siteleri ve mobil uygulamaları üzerindeki bilgi toplama ve dağıtımı işlemlerinin
+                Bu gizlilik ilkeleri MASAHESAP YAZILIM TİCARET LTD. ŞTİ. tarafından, MASAHESAP ADİSYON Yazılımı'nın
+                gizlilik konusundaki sorumluluklarının tespiti için hazırlanmıştır. Aşağıdaki maddeler masahesap.com ve
+                masahesap.com.tr web siteleri ve mobil uygulamaları üzerindeki bilgi toplama ve dağıtımı işlemlerinin
                 kurallarını içermektedir.
                 IP adresinizi sunucularımızdaki sorunların giderilmesi ve internet sitemizi yönetmek için kullanacağız.
                 IP adresiniz, sizi ve açık demografik bilgilerinizin toplanması için kullanılacaktır.
-                İŞHESAP YAZILIM TİCARET LTD. ŞTİ., kullanıcılarının kendi servisleri kanalı ile gönderdikleri,
-                yayınladıkları bilgileri kontrol ve sansür etmemektedir. Kullanıcılar, İŞHESAP ÖN MUHASEBE Yazılımı
+                MASAHESAP YAZILIM TİCARET LTD. ŞTİ., kullanıcılarının kendi servisleri kanalı ile gönderdikleri,
+                yayınladıkları bilgileri kontrol ve sansür etmemektedir. Kullanıcılar, MASAHESAP ADİSYON Yazılımı
                 servisleri kullanımı esnasında gerçekleştirecekleri aktivitelerin yasal sonuçlarından dolayı kendileri
                 sorumludurlar.
                 Sitemizin müşteri veri tabanına kayıt formunda kullanıcılarımız, iletişim bilgileri (isim, adres,
@@ -71,7 +71,7 @@
 
             <div class="terms-box">
               <!-- Title -->
-              <h4 class="h4-sm">İŞHESAP ÖN MUHASEBE'de Güvenlik</h4>
+              <h4 class="h4-sm">MASAHESAP ADİSYON'da Güvenlik</h4>
 
               <p class="p-lg">Sitelerimizde bilgi kaybını, bilginin izin verilmeyen kullanımını ve izinsiz
                 değiştirilmesini engellemek için firmamızca uygulanan güvenlik önlemleri bulunmaktadır. Bu güvenlik
@@ -84,7 +84,7 @@
             <!-- TERMS BOX -->
             <div class="terms-box">
               <!-- Title -->
-              <h4 class="h4-sm">İŞHESAP ÖN MUHASEBE'de Düzeltme / Yenileme</h4>
+              <h4 class="h4-sm">MASAHESAP ADİSYON'de Düzeltme / Yenileme</h4>
 
 
               <!-- Text -->
@@ -101,7 +101,7 @@
             <!-- TERMS BOX -->
             <div class="terms-box">
               <!-- Title -->
-              <h4 class="h4-sm">İŞHESAP ÖN MUHASEBE'de Gizlilik Unsuru</h4>
+              <h4 class="h4-sm">MASAHESAP ADİSYON'de Gizlilik Unsuru</h4>
 
               <!-- Text -->
               <p class="p-lg">
@@ -156,7 +156,7 @@
             <div class="terms-box">
               <!-- Title -->
               <h4 class="h4-sm">
-                İŞHESAP ÖN MUHASEBE'de Kişisel Verilerin Korunması Kanunu Uyumu
+                MASAHESAP ADİSYON'de Kişisel Verilerin Korunması Kanunu Uyumu
               </h4>
 
               <h6 class="h6-sm">1.Amaç ve talimatlar ile sınırlılık</h6>
@@ -257,7 +257,7 @@
 <script>
 export default {
   head: {
-    title: "MasaHesap",
+    title: "MasaHesap - Gizlilik Sözleşmesi",
     meta: [
       {
         hid: "description",

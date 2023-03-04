@@ -1861,7 +1861,7 @@ h5.sm-title {
 
 .cssload-loader {
   position: absolute;
-  left: calc(50% - 100px);
+  left: calc(53% - 100px);
   top: 50%;
   transition-duration:300ms;
   width: 100px;
