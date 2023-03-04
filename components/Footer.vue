@@ -14,29 +14,16 @@
         <div class="col-12 col-md-3">
           <div class="footer-links">
             <!-- Title -->
-            <h5 class="h5-xs">Sayfalarımız</h5>
-
-
-
+            <h5 class="h5-xs">MasaHesap Destek</h5>
             <ul class="foo-links clearfix">
               <li>
                 <p class="p-md">
-                  <a href="/hakkimizda" target="_blank">Hakkımızda</a>
+                  <a href="#pricing-3">Paketler</a>
                 </p>
               </li>
               <li>
                 <p class="p-md">
-                  <a href="/sss" target="_blank">SSS</a>
-                </p>
-              </li>
-              <li>
-                <p class="p-md">
-                  <a href="/paketler" target="_blank">Paketler</a>
-                </p>
-              </li>
-              <li>
-                <p class="p-md">
-                  <a href="/iletisim" target="_blank">İletişim</a>
+                  <a href="#contacts-2">İletişim</a>
                 </p>
               </li>
             </ul>
@@ -47,7 +34,7 @@
         <div class="col-12 col-md-3">
           <div class="footer-links mb-40">
             <!-- Title -->
-            <h5 class="h5-xs">İletişim</h5>
+            <h5 class="h5-xs">Sosyal Medya</h5>
 
             <!-- Social Links -->
             <h5 class="h5-xs">

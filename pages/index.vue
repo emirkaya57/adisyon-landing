@@ -770,8 +770,12 @@
 
     <!-- DOWNLOAD-1
 			============================================= -->
-    <referans></referans>
+    <paketler></paketler>
     <!-- END DOWNLOAD-1 -->
+    <div class="dividers">
+      <el-divider></el-divider>
+    </div>
+    <iletisim></iletisim>
 
     <!-- FOOTER-4
 			============================================= -->
@@ -781,7 +785,10 @@
 </template>
 
 <script>
+import Iletisim from '../components/iletisim.vue';
+import paketler from '../components/paketler.vue';
 export default {
+  components: { paketler, Iletisim },
   head: {
     title: "MasaHesap",
     meta: [
@@ -859,5 +866,9 @@ export default {
 
 .resim-div:hover .resim-1 {
   display: none;
+}
+
+.dividers .el-divider {
+  background-color: #fff;
 }
 </style>

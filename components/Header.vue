@@ -8,17 +8,9 @@
             <a href="/"><img height="45px" src="/images/is_black3.png" alt="header-logo" /></a>
           </div>
           <el-menu mode="horizontal" class="p-1">
-            <el-submenu index="/diğer el-sub-menu">
-              <template slot="title"><a
-                  style=" font-size: 20px;color: #463853 !important;font-weight: 600;font-family: 'Kanit' sans-serif;">Diğer</a></template>
-              <el-menu-item>
-                <a class="p-3" href="/iletisim">İletişim</a></el-menu-item>
-              <el-menu-item>
-                <a class="p-3" href="/paketler">Paketler</a></el-menu-item>
-            </el-submenu>
-            <el-menu-item><a target="_blank" href="https://muhasebe.ishesap.com/login">Giriş</a></el-menu-item>
-            <el-menu-item><a target="_blank" class="btn btn-skyblue" style="color: #fff !important"
-                href="https://muhasebe.ishesap.com/register">Ücretsiz Dene</a>
+            <el-menu-item><a target="_blank" href="">Giriş</a></el-menu-item>
+            <el-menu-item><a target="_blank" class="btn btn-skyblue" style="color: #fff !important" href="">Ücretsiz
+                Dene</a>
             </el-menu-item>
           </el-menu>
         </div>
@@ -40,24 +32,11 @@
             </el-menu-item>
             <hr />
             <el-menu-item><a
-                style="font-size:16px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; "
-                href="https://ishesap.com/docs">Doküman</a></el-menu-item>
-            <!-- <el-menu-item><a style="font-size:16px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; " href="https://ishesap.com/blog">Blog</a></el-menu-item>
-            <el-menu-item><a style="font-size:16px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; " href="/sss">SSS</a></el-menu-item> -->
-            <el-menu-item><a
-                style="font-size:16px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; "
-                href="/iletisim">İletişim</a></el-menu-item>
-            <el-menu-item><a
-                style="font-size:16px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; "
-                href="/paketler">Paketler</a></el-menu-item>
-            <hr />
-
-            <el-menu-item><a
-                style="font-size:18px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; "
-                href="https://muhasebe.ishesap.com/login" class="btn btn-default">Giriş</a></el-menu-item>
+                style="font-size:18px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; " href=""
+                class="btn btn-default">Giriş</a></el-menu-item>
             <el-menu-item style="background: rgba(0, 0, 255, 0.2)">
               <a style="font-size:18px;font-family:Arial, Helvetica, sans-serif; color:#463853; font-weight: 600; "
-                href="https://muhasebe.ishesap.com/register">
+                href="">
                 Ücretsiz Dene
               </a>
             </el-menu-item>
