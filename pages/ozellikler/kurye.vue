@@ -17,7 +17,7 @@
                             <h2 class="h2-lg ">Kurye Modülü</h2>
 
                             <!-- Text -->
-                            <p class="p-xl grey-color">İşletmenizi ve Siparişlerinizi kolaylıkla yönetmek istiyorsanız bu
+                            <p class="p-xl grey-color">İşletmenizi ve Kuryelerinizi kolaylıkla yönetmek istiyorsanız bu
                                 çözüm
                                 tam size göre.
                             </p>
@@ -75,7 +75,7 @@
                         <!-- IMAGE BLOCK -->
                         <div class="col-md-5 col-lg-6">
                             <div class="content-5-img right-column pc-20 text-center wow fadeInRight" data-wow-delay="0.6s">
-                                <img class="img-fluid" src="/anasayfa/1.png" alt="İş Hesap Kobi" />
+                                <img class="img-fluid" src="/anasayfa/3.png" alt="İş Hesap Kobi" />
                             </div>
                         </div>
 
@@ -104,10 +104,6 @@
                                     edebilmelerini de
                                     sağlayabilirsiniz.
                                 </p>
-                            </div>
-                            <div>
-                                <a style="font-size: 18px; font-weight: 500;" href="/ozellikler/siparis-yonetimi">Sipariş
-                                    Yönetimi <i class="bi bi-arrow-right"></i></a>
                             </div>
                         </div>
                         <!-- END CONTENT TXT -->
