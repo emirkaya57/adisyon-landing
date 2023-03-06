@@ -18,12 +18,12 @@
             <ul class="foo-links clearfix">
               <li>
                 <p class="p-md">
-                  <a href="#pricing-3">Paketler</a>
+                  <a href="/#pricing-3">Paketler</a>
                 </p>
               </li>
               <li>
                 <p class="p-md">
-                  <a href="#contacts-2">İletişim</a>
+                  <a href="/#contacts-2">İletişim</a>
                 </p>
               </li>
             </ul>

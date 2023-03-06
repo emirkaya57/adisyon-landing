@@ -244,7 +244,8 @@
 
                                 </ul>
                                 <div>
-                                    <a style="font-size: 18px; font-weight: 500;" href="/ozellikler/qr-menu">Qr Menü<i
+                                    <a style="font-size: 18px; font-weight: 500;"
+                                        href="/ozellikler/musteri-tedarikci">Müşteri/Tedarikçi Yönetimi<i
                                             class="bi bi-arrow-right"></i></a>
                                 </div>
                             </div>
@@ -321,6 +322,49 @@
             <!-- End container -->
         </section>
 
+        <section id="content-5" class="pb-80 content-section">
+            <div class="bg-inner bg_whitesmoke pt-100 division">
+                <div class="container">
+                    <div class="row d-flex align-items-center">
+                        <!-- IMAGE BLOCK -->
+                        <div class="col-md-5 col-lg-6">
+                            <div class="content-5-img right-column pc-20 text-center wow fadeInRight" data-wow-delay="0.6s">
+                                <img class="img-fluid" src="/anasayfa/1.png" alt="İş Hesap Kobi" />
+                            </div>
+                        </div>
+
+                        <!-- TEXT BLOCK -->
+                        <div class="col-md-7 col-lg-6">
+                            <div class="txt-block left-column mb-40 wow fadeInLeft" data-wow-delay="0.6s">
+                                <!-- Section ID -->
+                                <span class="section-id grey-color">Kolay Sipariş</span>
+
+                                <!-- Title -->
+                                <h2 class="h2-md">
+                                    Self - Servis Modülü
+                                </h2>
+
+                                <!-- Text -->
+                                <p class="p-lg">
+                                    Günümüzde işletmeler hızlı ve sağlıklı karar almak
+                                    zorundadırlar. Artan rekabet baskısı ve ekonomik dalgalanmalar
+                                    nedeniyle işletmesinin bilgilerine hakim olan İşletmeler ayakta
+                                    kalabilmektedirler.
+                                </p>
+                            </div>
+                            <div>
+                                <a style="font-size: 18px; font-weight: 500;" href="/ozellikler/self-servis">Self - Servis
+                                    Modülü<i class="bi bi-arrow-right"></i></a>
+                            </div>
+                        </div>
+                        <!-- END CONTENT TXT -->
+                    </div>
+                    <!-- End row -->
+                </div>
+                <!-- End container -->
+            </div>
+            <!-- End Inner Background -->
+        </section>
         <Footer></Footer>
     </div>
 </template>
@@ -330,6 +374,7 @@ export default {
     data() {
         return {
             email: '',
+            loading: true
         }
     }
 }

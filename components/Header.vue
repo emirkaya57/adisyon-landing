@@ -19,9 +19,18 @@
               <el-menu-item><a class="p-3" href="/ozellikler/personel-yonetimi"
                   style="font-size:18px; font-family: Arial, Helvetica, sans-serif  ; font-weight:600">Personel
                   Yönetimi</a></el-menu-item>
+              <el-menu-item><a class="p-3" href="/ozellikler/musteri-tedarikci"
+                  style="font-size:18px; font-family: Arial, Helvetica, sans-serif  ; font-weight:600">Müşteri/Tedarikçi</a></el-menu-item>
+              <el-menu-item><a class="p-3" href="/ozellikler/self-servis"
+                  style="font-size:18px; font-family: Arial, Helvetica, sans-serif  ; font-weight:600">Self-Servis
+                  Modülü</a></el-menu-item>
+              <el-menu-item><a class="p-3" href="/ozellikler/kurye"
+                  style="font-size:18px; font-family: Arial, Helvetica, sans-serif  ; font-weight:600">Kurye
+                  Modülü</a></el-menu-item>
               <div class="pb-3">
-                <el-menu-item><a class="btn btn-outline-danger" href="/ozellikler" style="font-size:18px; background-color: #fff; color:#DC3545 !important ;
-                                                       font-family: Arial, Helvetica, sans-serif  ; font-weight:600">Tüm
+                <el-menu-item><a class="btn btn-outline-danger" href="/ozellikler"
+                    style="font-size:18px; background-color: #fff; color:#DC3545 !important ;
+                                                             font-family: Arial, Helvetica, sans-serif  ; font-weight:600">Tüm
                     Özellikler</a></el-menu-item>
               </div>
             </el-submenu>

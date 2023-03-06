@@ -100,9 +100,8 @@
                     <h6 style="color:#000" class="h6-sm">Düşük Maliyet
                     </h6>
                     <p class="p-sm" style="color:#7F8487">
-                      MasaHesap'ı kullanmak için pahalı bir lisans almanıza gerek yoktur. Yıllık bakım ücreti de
-                      ödemezsiniz.
-                      Abonelik sistemi sayesinde, kullandığınız kadar ödersiniz.
+                      Fiyat ve müşteri politikamız ile her zaman yanınızdayız! MasaHesap ile lisanslama ya da yıllık bakım
+                      maliyetlerinizden kurtulun. Abonelik sistemi sayesinde ödediğiniz kadar düşük maliyetlerle kullanın.
                     </p>
                   </div>
                 </div>
@@ -123,8 +122,9 @@
 
 
                   <p class="p-sm" style="color:#7F8487">
-                    MasaHesap, herhangi bir eğitim gerekmeden kullanabileceğiniz şekilde tasarlanmıştır. Bu sayede
-                    yazılımımızı kolay bir şekilde kullanabilirsiniz.
+                    Anlaşılır ve basit arayüzleri sayesinde firmanızla tanımlamaları yaptıktan sonra kullanmaya
+                    başlayın. İster sizin için hazırladığımız şablonlardan dilediğinizi seçin isterseniz işletmenizi
+                    sıfırdan oluşturun.
                   </p>
                 </div>
               </el-card>
@@ -139,14 +139,13 @@
                 </div>
                 <div class="fbox-txt">
 
-                  <h6 style="color:#000" class="h6-sm">İstediğiniz Cihazdan
-                    Kullanın
+                  <h6 style="color:#000" class="h6-sm">Cihaz Özgürlüğü
                   </h6>
 
 
                   <p class="p-sm" style="color:#7F8487">
-                    MasaHesap sizi tek bir cihaz kullanmaya zorlamaz. İnternet olan herhangi bir cihazdan işlerinizi
-                    kolayca yönetebilirsiniz. Tabletler, akıllı telefonlar, bilgisayarlar.
+                    İnternet erişimi olan her cihaz ile özgürsünüz. Basit ve anlaşılır Web ve Mobil arayüzlerimiz
+                    sayesinde tüm cihazlarınızdan işletmenize ait operasyonlarınızı kolaylıkla yönetin.
                   </p>
                 </div>
               </el-card>
@@ -162,13 +161,13 @@
                 </div>
                 <div class="fbox-txt">
 
-                  <h6 style="color:#000" class="h6-sm">Gelişmiş Raporlama
+                  <h6 style="color:#000" class="h6-sm">Raporlama Sistemi
                   </h6>
 
 
                   <p class="p-sm" style="color:#7F8487">
-                    MasaHesap ile yapmış olduğunuz tüm satış, ödeme ve stoklarınız işletmenize özel detaylı ve anlaşılır
-                    raporlar halinde sunulmuştur.
+                    İşletmenize ait masa yoğunluğundan, cirolarınıza, favori ürünlerden en çok sipariş edilen ürünlerinize
+                    kadar detaylı raporlama alın. Personel mesailerinizi raporlama ile puanlayın.
                   </p>
                 </div>
               </el-card>
@@ -185,13 +184,13 @@
                 </div>
                 <div class="fbox-txt">
 
-                  <h6 style="color:#000" class="h6-sm">Qr Menü
+                  <h6 style="color:#000" class="h6-sm">Yedekleme ve Güvenlik
                   </h6>
 
 
                   <p class="p-sm" style="color:#7F8487">
-                    MasaHesap ile tanımladığınız ürünlerinizi qr menüde listeyebilirsiniz.İstediğiniz ürünleri favori ürün
-                    olarak belirleyebilirsiniz
+                    Verileriniz kendi sunucu merkezlerimizde bizim güvencemiz altında. Yedekleme, güncelleme ya da
+                    güvenlik sorunlarını, erişim sıkıntılarını sizin yerinize biz düşünüyoruz.
                   </p>
                 </div>
               </el-card>
@@ -205,80 +204,19 @@
                 </div>
                 <div class="fbox-txt">
 
-                  <h6 style="color:#000" class="h6-sm"> Üst Seviye Yedekleme
+                  <h6 style="color:#000" class="h6-sm"> Yetkilendirme Sistemi
                   </h6>
 
 
                   <p class="p-sm" style="color:#7F8487">
-                    MasaHesap, verilerinizi yüksek güvenliğe sahip sunucularda tutar.
-                    İşletmenizdeki cihazlarınızda sorun olsa bile verileriniz güvende kalır.
-                  </p>
-                </div>
-              </el-card>
-
-            </div>
-            <div id="fb-5-1" class="col-md-4">
-
-              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu text-center" data-wow-delay="0.4s">
-                <div class="mb-2">
-                  <img src="/ozellik/security.png" alt="gelişmiş yedekleme">
-                </div>
-                <div class="fbox-txt">
-
-                  <h6 style="color:#000" class="h6-sm">Güvenlik
-                  </h6>
-
-
-                  <p class="p-sm" style="color:#7F8487">
-                    Dışarıdan erişimi engelleyen güvenlik alt yapımız ile sisteminizde yeralan tüm bilgileri sadece sizin
-                    belirlediğiniz kişilere erişimini açabilirsiniz.
-                  </p>
-                </div>
-              </el-card>
-
-            </div>
-            <div id="fb-5-1" class="col-md-4">
-
-              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu text-center" data-wow-delay="0.4s">
-                <div class="mb-2">
-                  <img src="/ozellik/authority.png" alt="gelişmiş yedekleme">
-                </div>
-                <div class="fbox-txt">
-
-                  <h6 style="color:#000" class="h6-sm">Yetkilendirme
-                  </h6>
-
-
-                  <p class="p-sm" style="color:#7F8487">
-                    Tüm işletme operasyonunu kullanıcılarınıza özel ve bölgelere özel yetkilendirebilirsiniz.Böylelikle
-                    işletme takini daha
-                    kolay hale getirebilirsiniz
+                    Tüm işletme operasyonunu personellerinize özel, bölge ve birimlere özel yetkilendirebilirsiniz. Bu
+                    sayede personel yönetimini ve raporlamasını daha kullanışlı ve kolay hale getirebilirsiniz.
                   </p>
                 </div>
               </el-card>
 
             </div>
 
-            <div id="fb-5-1" class="col-md-4">
-
-              <el-card class="fbox-5 pc-25 mb-40 wow fadeInUp card-kutu text-center" data-wow-delay="0.4s">
-                <div class="mb-2">
-                  <img src="/ozellik/integration.png" alt="gelişmiş yedekleme">
-                </div>
-                <div class="fbox-txt">
-
-                  <h6 style="color:#000" class="h6-sm">Entegrasyon
-                  </h6>
-
-
-                  <p class="p-sm" style="color:#7F8487">
-                    Tüm sipariş operasyonunu sipariş yönetimi yapan diğer uygulamalarla eş zamanlı olarak
-                    çalışabilirsiniz.Siparişe giden kuryelerinizi tek panelden takip edebilirsiniz.
-                  </p>
-                </div>
-              </el-card>
-
-            </div>
           </div>
           <!-- End row -->
         </div>
@@ -308,27 +246,20 @@
             <div class="col-md-7 col-lg-6">
               <div class="txt-block left-column mb-40 wow fadeInLeft" data-wow-delay="0.6s">
                 <!-- Section ID -->
-                <span class="section-id grey-color">Yüksek Performans</span>
+                <span class="section-id grey-color">Güvenli ve hızlı bir şekilde tüm verilerinize ulaşın!</span>
 
                 <!-- Title -->
                 <h2 class="h2-md">
-                  Verimli ve Sağlıklı Bir Şekilde Hesaplarınıza
-                  Ulaşın!
+                  Hızlı, Güvenli, Kolay
                 </h2>
 
                 <!-- Text -->
                 <p class="p-lg">
-                  Günümüzde işletmeler hızlı ve sağlıklı karar almak
-                  zorundadırlar. Artan rekabet baskısı ve ekonomik dalgalanmalar
-                  nedeniyle işletmesinin bilgilerine hakim olan İşletmeler ayakta
-                  kalabilmektedirler. Eğer Adsiyon çözümünü kullanıyorsanız
-                  internetin olduğu herhangi bir cihazdan ve cep telefonundan
-                  İşletmenizi Takip edebilirsiniz ve siparişlerinizi takip edebilir, kasa
-                  ve banka işlemlerini gerçekleştirebilirsiniz. Veri, bilgi
-                  günümüzün en önemli ticari değeri olarak kabul edilmektedir.
-                  Verileriniz, bilgileriniz Adisyon yazılımı ile istediğiniz anda,
-                  istediğiniz bilgiye erişim sağlamanızı kolaylaştıracak şekilde
-                  dizayn edilmiştir.
+                  Günümüz teknoloji çağında verilerin hızı, erişebilirliği ve güvenliği çok önemli hale gelmektedir.
+                  MasaHesap olarak bu hizmetlerin tamamını düşük maliyet ve yüksek performans ile sizin kullanımınıza
+                  sunmaktayız. Firmanızın ihtiyaç duyduğu adisyon, ödeme sistemi, cari hesaplama, kurye, mutfak ekranları
+                  gibi tüm özellikleri kurulum, yedekleme ya da lisanslama ihtiyacı duymadan internet erişimi olan tüm
+                  cihazlarınızdan kolaylıkla kontrol edebilirsiniz.
                 </p>
               </div>
             </div>
@@ -358,13 +289,13 @@
                 </span>
 
                 <!-- Title -->
-                <h2 class="h2-md">Termal Yazıcı ve Mutfak Ekranı</h2>
+                <h2 class="h2-md">Termal yazıcılar ile tam uyum!</h2>
 
                 <!-- Text -->
                 <p class="p-lg">
-                  MasaHesap sizi mutfakta sadece ekran veya sadece yazıcı kullanmaya zorlamaz. İsterseniz mutfakta tablet,
-                  laptop, pc, all in one gibi cihazlar kullanarak mutfağa gelen siparişleri bu ekranlarda takip edebilir,
-                  isterseniz de termal yazıcı ile siparişlerinizin ilgili yazıcıdan çıkmasını sağlayabilirsiniz.
+                  Siparişlerinizi, adisyonlarınızı, kurye detaylarını ya da müşteri hesaplarınızı termal yazıcılar ile
+                  kağıda aktarabilir, detaylı yönetimini kontrol altına alabilirsiniz.Mutfak ekranlarımız ile
+                  mutfağınızdaki trafiği kontrol edebilir ve yönetebilirsiniz.
                 </p>
               </div>
             </div>
@@ -399,19 +330,19 @@
 
                 <!-- Title -->
                 <h2 class="h2-md">
-                  Paket Siparişi ve Kurye Yönetimi
+
+                  Paket sipariş ve kurye yönetimi
                 </h2>
 
                 <!-- List -->
                 <div class="simple-list">
 
                   <p class="p-lg">
-                    MasaHesap ile paket siparişlerinizi çok daha kolay şekilde yönetebilirsiniz. Paket siparişlerinizin
-                    teslim edileceği müşterilerinize ait bilgileri kolayca kayıt altında tutabilirsiniz. Bu özellik ile
-                    paket siparişlerinizin teslim edileceği müşterilerinize ait bilgileri kolayca sisteme kaydedebilir,
-                    ayrıca siparişlerinizi teslim eden kuryelerinizin takibini de gerçekleştirebilirsiniz. Dilerseniz
-                    mobil uygulamamız üzerinden kuryelerinizin kendi paket siparişlerini takip edebilmelerini de
-                    sağlayabilirsiniz.
+
+                    İlgili siparişinizi istediğiniz kuryeye atayabilir, siparişinizin durumunu, konumunu kolaylıkla
+                    kontrol edebilirsiniz. Paket siparişine ait müşteri bilgilerini kayıt altına alabilir, termal
+                    yazıcılar sayesinde yazdırabilir ya da ilgili kuryenizi mobil telefonu üzerinden kolaylıkla
+                    yönlendirebilirsiniz..
                   </p>
 
 
@@ -436,83 +367,7 @@
 
     <!-- FEATURES-5
 			============================================= -->
-    <section id="features-7" class="wide-100 features-section division">
-      <div class="container">
-        <!-- SECTION TITLE -->
-        <div class="row">
-          <div class="col-md-10 col-lg-8 offset-md-1 offset-lg-2">
-            <div class="section-title text-center mb-70">
-              <!-- Title -->
-              <h2 class="h2-md">
-                Nerede olursanız olun hesaplarınıza en hızlı şekilde ulaşın
-              </h2>
-
-              <!-- Text -->
-            </div>
-          </div>
-        </div>
-
-        <!-- FEATURES-7 WRAPPER -->
-        <div class="fbox-7-wrapper">
-          <div class="row">
-            <!-- FEATURE BOX #1 -->
-            <div id="fb-7-1" class="col-sm-6 col-md-3">
-              <div class="fbox-7 text-center wow fadeInUp" data-wow-delay="0.4s">
-                <!-- Icon -->
-                <div class="fbox-7-ico ico-75 grey-color">
-                  <span class="flaticon-ads"></span>
-                </div>
-
-                <!-- Title -->
-                <h5 class="h5-xs">Kullanıcı Dostu Tasarım</h5>
-              </div>
-            </div>
-
-            <!-- FEATURE BOX #2 -->
-            <div id="fb-7-2" class="col-sm-6 col-md-3">
-              <div class="fbox-7 text-center wow fadeInUp" data-wow-delay="0.6s">
-                <!-- Icon -->
-                <div class="fbox-7-ico ico-75 grey-color">
-                  <span class="flaticon-manufacturing"></span>
-                </div>
-
-                <!-- Title -->
-                <h5 class="h5-xs">Alternatif Çözümler</h5>
-              </div>
-            </div>
-
-            <!-- FEATURE BOX #3 -->
-            <div id="fb-7-3" class="col-sm-6 col-md-3">
-              <div class="fbox-7 text-center wow fadeInUp" data-wow-delay="0.8s">
-                <!-- Icon -->
-                <div class="fbox-7-ico ico-75 grey-color">
-                  <span class="flaticon-user-1"></span>
-                </div>
-
-                <!-- Title -->
-                <h5 class="h5-xs">Çok Kullanıcılı</h5>
-              </div>
-            </div>
-
-            <!-- FEATURE BOX #4 -->
-            <div id="fb-7-4" class="col-sm-6 col-md-3">
-              <div class="fbox-7 text-center wow fadeInUp" data-wow-delay="1s">
-                <!-- Icon -->
-                <div class="fbox-7-ico ico-75 grey-color">
-                  <span class="flaticon-folder-2"></span>
-                </div>
-
-                <!-- Title -->
-                <h5 class="h5-xs">Otomatik Yedekleme</h5>
-              </div>
-            </div>
-          </div>
-          <!-- End row -->
-        </div>
-        <!-- END FEATURES-7 WRAPPER -->
-      </div>
-      <!-- End container -->
-    </section>
+    <hazir></hazir>
     <!-- END FEATURES-5 -->
 
     <!-- CONTENT-12
@@ -581,7 +436,7 @@
               <div class="simple-list">
 
                 <p class="p-lg">
-                  MasaHesap çoklu şube yönetimi (Patron Uygulaması) ile işletmenizin bütün şubelerini,tek bir noktadan
+                  MasaHesap çoklu şube yönetimi ile işletmenizin bütün şubelerini,tek bir noktadan
                   yönetmenizi sağlar. Şubelerinizin genel durumları, masa doluluk oranları, günlük sipariş sayısı ve daha
                   birçok veriyi anlık takip etmenizi sağlar. Üstelik tüm bunlar için ek ücret ödemezsiniz.
                 </p>
@@ -780,10 +635,10 @@
               <!-- Text -->
               <p class="p-xl">
                 Yeni nesil yazılım teknolojilerini kullanıldığı web tabanlı ve
-                mobil uygulama destekli KOBİ, Ön Muhasebe ve Resmi Muhasebe
-                yazılımları ile işletmenizin ihtiyaç duyacağı tüm e-fatura ve
-                muhasebe çözümleri İŞHESAP’ta yer almaktadır. Bu gelişmiş full
-                entegre çalışan yazılımlardan sizde faydalanın.
+                mobil uygulama destekli Adisyon
+                yazılımları ile işletmenizin ihtiyaç duyacağı tüm sipariş çözümleri MASAHESAP'ta yer almaktadır. Bu
+                gelişmiş full
+                entegre çalışan yazılımdan sizde faydalanın.
               </p>
 
               <!-- END STORE BADGES -->
