@@ -7,10 +7,27 @@
           <div class="d-flex justify-content-center">
             <a href="/"><img style="width: 200px;" src="/images/is_black3.png" alt="header-logo" /></a>
           </div>
-          <el-menu mode="horizontal" class="p-1">
-            <el-menu-item><a target="_blank" href="https://adisyon.masahesap.com/">Giriş</a></el-menu-item>
-            <el-menu-item><a target="_blank" class="btn btn-skyblue" style="color: #fff !important"
-                href="https://adisyon.masahesap.com/">Ücretsiz
+          <el-menu mode="horizontal" class="p-1 text-center">
+            <el-submenu>
+              <template slot="title"><a>Özellikler</a></template>
+              <el-menu-item><a class="p-3" href="/ozellikler/siparis-yonetimi"
+                  style="font-size:18px; font-family: Arial, Helvetica, sans-serif  ; font-weight:600">Sipariş
+                  Yönetimi</a></el-menu-item>
+              <el-menu-item><a class="p-3" href="/ozellikler/qr-menu"
+                  style="font-size:18px; font-family: Arial, Helvetica, sans-serif  ; font-weight:600">Qr
+                  Menü</a></el-menu-item>
+              <el-menu-item><a class="p-3" href="/ozellikler/personel-yonetimi"
+                  style="font-size:18px; font-family: Arial, Helvetica, sans-serif  ; font-weight:600">Personel
+                  Yönetimi</a></el-menu-item>
+              <div class="pb-3">
+                <el-menu-item><a class="btn btn-outline-danger" href="/ozellikler" style="font-size:18px; background-color: #fff; color:#DC3545 !important ;
+                                                       font-family: Arial, Helvetica, sans-serif  ; font-weight:600">Tüm
+                    Özellikler</a></el-menu-item>
+              </div>
+            </el-submenu>
+            <el-menu-item><a target="_blank" href="https://adisyon.masahesap.com/login">Giriş</a></el-menu-item>
+            <el-menu-item><a target="_blank" class="btn btn-outline-danger giris-button" style="color: #fff !important;"
+                href="https://adisyon.masahesap.com/register">Ücretsiz
                 Dene</a>
             </el-menu-item>
           </el-menu>
@@ -135,9 +152,11 @@ export default {
   font-size: 20px;
   font-family: 'Kanit' sans-serif;
   font-weight: 500;
-
 }
 
+.el-menu--horizontal>.el-menu-item .giris-button {
+  background-color: #DC3545;
+}
 
 
 .menu {

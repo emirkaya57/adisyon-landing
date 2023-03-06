@@ -7,34 +7,68 @@
 
     <!-- HERO-12
 			============================================= -->
-    <section id="hero-12" class="bg_scroll hero-section division" style="height:100vh">
-      <div class="container white-color">
+
+    <section id="hero-3" class="bg_scroll hero-section division h-100">
+      <div class="container">
         <div class="row d-flex align-items-center">
+
+
           <!-- HERO TEXT -->
-          <div class="col-md-6 col-lg-5">
-            <div class="hero-12-txt pc-20 text-center wow fadeInRight" data-wow-delay="0.6s">
-              <!-- Title  -->
-              <h2 class="h2-title-xl">MasaHesap&reg;</h2>
+          <div class="col-md-7 col-lg-6">
+            <div class="hero-3-txt pc-10 mb-40 wow fadeInRight" data-wow-delay="0.4s">
+
+              <!-- Small Tittle -->
+              <h5 class="h5-xs grey-color">MasaHesap</h5>
+
+              <!-- Title -->
+              <h2 class="h2-xl">Kurulum Gerektirmeyen Adisyon</h2>
 
               <!-- Text -->
-              <h4 class="h4-md">Hızlı ve Kurulum Gerektirmeyen
-                Adisyon Sistemi</h4>
+              <p class="p-xl grey-color">İşletmenizi ve Siparişlerinizi kolaylıkla yönetmek istiyorsanız bu çözüm
+                tam size göre.
+              </p>
 
-              <!-- OS Prerequisite -->
+              <!-- HERO REQUEST FORM -->
+              <form name="requestform" class="request-form">
+
+                <!-- Form Inputs -->
+                <div class="input-group">
+
+                  <input type="email" v-model="email" name="email" class="form-control email"
+                    placeholder="Email Adresiniz" required>
+                  <span class="input-group-btn form-btn">
+                    <a :href="'https://adsiyon.masahesap.com/register?email=' + this.email"
+                      class="btn btn-md btn-skyblue black-hover submit">Kayıt Ol</a>
+                  </span>
+                </div>
+                <p class="mt-10 text-right" style="color:#757575; font-weight: 500;">İlk 3 Ay Ücretsiz!</p>
+
+
+                <!-- Form Message -->
+                <div class="request-form-msg"><span class="loading"></span></div>
+
+              </form>
+
             </div>
-          </div>
-          <!-- END HERO TEXT -->
+          </div> <!-- END HERO TEXT -->
+
 
           <!-- HERO IMAGE -->
-          <div class="col-md-6 col-lg-7">
-            <div class="hero-12-img pc-25 text-center wow fadeInLeft" data-wow-delay="0.6s">
-              <img class="img-fluid" style="max-width: 110%" src="/images/bannerFoto.png" alt="İş Hesap Kobi" />
+          <div class="col-md-5 col-lg-6">
+            <div class="hero-3-img text-center mb-40 wow fadeInLeft" data-wow-delay="0.6s">
+              <img class="img-fluid" src="/images/bannerFoto.png" alt="hero-image">
             </div>
           </div>
-        </div>
-        <!-- End row -->
-      </div>
-      <!-- End container -->
+
+
+        </div> <!-- End row -->
+      </div> <!-- End container -->
+
+
+      <!-- SECTION OVERLAY -->
+      <div class="bg_fixed wave_overlay"></div>
+
+
     </section>
     <!-- END HERO-12 -->
 
@@ -803,6 +837,7 @@ export default {
   data() {
     return {
       delay: "0.1s",
+      email: '',
       data: {},
       loading: true,
       params: {
