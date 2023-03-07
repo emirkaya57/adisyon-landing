@@ -173,32 +173,25 @@
                         <div class="col-md-7 col-lg-6">
                             <div class="txt-block right-column pc-30 mb-40 wow fadeInLeft" data-wow-delay="0.6s">
                                 <!-- Section ID -->
-                                <span class="section-id grey-color">Kurye Erkanı</span>
+                                <span class="section-id grey-color">Personel Yönetimi</span>
 
                                 <!-- Title -->
                                 <h2 class="h2-md">
-                                    Paket Siparişi ve Kurye Yönetimi
+                                    Personel Yönetimi
                                 </h2>
 
                                 <!-- List -->
                                 <div class="simple-list">
 
                                     <p class="p-lg">
-                                        MasaHesap ile paket siparişlerinizi çok daha kolay şekilde yönetebilirsiniz. Paket
-                                        siparişlerinizin
-                                        teslim edileceği müşterilerinize ait bilgileri kolayca kayıt altında tutabilirsiniz.
-                                        Bu özellik ile
-                                        paket siparişlerinizin teslim edileceği müşterilerinize ait bilgileri kolayca
-                                        sisteme kaydedebilir,
-                                        ayrıca siparişlerinizi teslim eden kuryelerinizin takibini de
-                                        gerçekleştirebilirsiniz. Dilerseniz
-                                        mobil uygulamamız üzerinden kuryelerinizin kendi paket siparişlerini takip
-                                        edebilmelerini de
-                                        sağlayabilirsiniz.
+                                        MasaHesap ile personel oldukça kolaydır. İşletmenizdeki personelleri kolayca
+                                        kayıt edebilir, giriş-çıkış saatlerini tutabilirsiniz.Ayrıca personellerinizin
+                                        maaşlarını, görevlerini ve izinlerini kayıt edebilir kolaylıkla takip edebilirsiniz.
                                     </p>
 
                                     <div>
-                                        <a style="font-size: 18px; font-weight: 500;" href="/ozellikler/kurye">Kurye Paket
+                                        <a style="font-size: 18px; font-weight: 500;"
+                                            href="/ozellikler/personel-yonetimi">Personel
                                             Yönetimi<i class="bi bi-arrow-right"></i></a>
                                     </div>
                                 </div>

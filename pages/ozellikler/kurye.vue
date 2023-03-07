@@ -124,6 +124,7 @@ import Footer from '../../components/Footer.vue'
 export default {
     data() {
         return {
+            email: '',
             loading: true
         }
     },
