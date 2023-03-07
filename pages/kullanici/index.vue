@@ -42,7 +42,7 @@
 
                             <!-- Text -->
                             <p class="p-lg">
-                                1.1 İŞHESAP Web Tabanlı Adisyon, programı, İŞHESAP YAZILIM TİCARET LTD.ŞTİ’ nin
+                                1.1 İŞHESAP Web Tabanlı Adisyon Programı, İŞHESAP YAZILIM TİCARET LTD.ŞTİ’ nin
                                 Lisanslı bir iş uygulamasıdır. MASAHESAP ADİSYON olarak anılacaktır.
                                 1.2 Yazılım ve uygulamalarını kullanan kullanıcılar MÜŞTERİ olarak anılacaktır.
                             </p>

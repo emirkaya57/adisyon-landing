@@ -37,7 +37,7 @@
                   <input type="email" v-model="email" name="email" class="form-control email"
                     placeholder="Email Adresiniz" required>
                   <span class="input-group-btn form-btn">
-                    <a :href="'https://adsiyon.masahesap.com/register?email=' + this.email"
+                    <a :href="'https://adisyon.masahesap.com/register?email=' + this.email"
                       class="btn btn-md btn-skyblue black-hover submit">Kayıt Ol</a>
                   </span>
                 </div>
